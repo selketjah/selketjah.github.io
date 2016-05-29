@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            selketjah
+tagline:          ''
+description:      ''
+url:              http://selketjah.github.io/
+baseurl:          http://selketjah.github.io/
+
+author:
+  name:           'Gien Verschatse'
+  url:            https://twitter.com/selketjah
+
+paginate:         5
+
+# Custom vars
+version:          0.0.0
+
+github:
+  repo:           https://github.com/selketjah/selketjah.github.io
