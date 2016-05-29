@@ -3,28 +3,20 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+##  Hey there! And welcome to my blog
 
-There are currently two themes built on Poole:
+Thanks for reading my blog!
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+My name Gien and I have been programming in C# for most of my career. Recently I added F# to that list and loving it.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+I always start my day with coffee, I'm part of the [@DDDBE](http://www.meetup.com/dddbelgium/) and [@SoCraTes_BE](http://www.meetup.com/socratesbe/) organisation team 
+and help out with the [SoCraTes BE conference](http://www.socratesbe.org/).
 
-## Setup
+If I'm not busy with becoming a better developer, you will find me on the sofa, reading (yes, with coffee).
 
-Some fun facts about the setup of this project include:
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+## Get in touch
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+If you want to get in touch feel free to [ping me on Twitter](https://twitter.com/selketjah)!
+If you are interested in what I'm reading, [you can find me on Goodreads](https://www.goodreads.com/selketjah)
