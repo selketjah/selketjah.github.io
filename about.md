@@ -10,7 +10,7 @@ Thanks for reading my blog!
 
 My name Gien and I have been programming in C# for most of my career. Recently I added F# to that list and loving it.
 
-I always start my day with coffee, I'm part of the [@DDDBE](http://www.meetup.com/dddbelgium/) and [@SoCraTes_BE](http://www.meetup.com/socratesbe/) organisation team 
+I always start my day with coffee, I'm part of the [@DDDBE](http://www.meetup.com/dddbelgium/) and [@SoCraTes_BE](http://www.meetup.com/socratesbe/) organisational team 
 and help out with the [SoCraTes BE conference](http://www.socratesbe.org/).
 
 If I'm not busy with becoming a better developer, you will find me on the sofa, reading (yes, with coffee).
