@@ -8,7 +8,7 @@ title: About
 
 Thanks for reading my blog!
 
-My name Gien and I have been programming in C# for most of my career. Recently I added F# to that list and loving it.
+My name is Gien and I have been programming in C# for most of my career. Recently I added F# to that list and loving it.
 
 I always start my day with coffee, I'm part of the [@DDDBE](http://www.meetup.com/dddbelgium/) and [@SoCraTes_BE](http://www.meetup.com/socratesbe/) organisational team 
 and I help out with the [SoCraTes BE conference](http://www.socratesbe.org/).
