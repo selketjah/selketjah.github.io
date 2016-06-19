@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Pragmatic Thinking and Learning by Andy Hunt
+tags:
+- books
 ---
 
 ## Pragmatic Thinking and Learning by Andy Hunt
