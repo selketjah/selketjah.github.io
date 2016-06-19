@@ -12,4 +12,4 @@ About 75 percent of the tips and tricks from the book I still apply today, which
 I hope my first attempt in creating a summary of a book (as you can see, creating mind maps is one of them) is a good teaser 
 to read the book yourself.
 
-![placeholder](mindmaps/pragmatic-thinking-and-learning.jpeg "Pragmatic thinking and learning")
+![placeholder](/public/mindmaps/pragmatic-thinking-and-learning.jpeg "Pragmatic thinking and learning")
