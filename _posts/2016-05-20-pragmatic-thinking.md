@@ -5,8 +5,6 @@ tags:
 - books
 ---
 
-## Pragmatic Thinking and Learning by Andy Hunt
-
 About one and a half years ago I read the book ‘Pragmatic Thinking and Learning: Refactor Your Wetware’ by Andy Hunt.
 
 About 75 percent of the tips and tricks from the book I still apply today, which is a first.
