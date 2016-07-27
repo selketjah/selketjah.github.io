@@ -11,7 +11,7 @@ In the beginning of this year, I did an F# mentorship with Mathias Brandewinder.
 
 If you want the quick version of the general setup of the mentorship, you are in the right place!
 This is just a summary with little detail as a future reference point for those who read the entire thing.
-You can find the full story [here]().
+You can find the full story [here](http://selketjah.github.io/2016/07/24/about-a-bot-start/).
 
 ## 1
 Duration of each session.
