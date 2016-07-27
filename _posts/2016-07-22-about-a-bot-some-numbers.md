@@ -1,11 +1,12 @@
 ---
 layout: post
-title: About a bot [Part I - How it started: some numbers]
+title: About a bot [Part II - some numbers]
 tags:
 - fsharp
 - F#
 - mentorship
 ---
+
 
 In the beginning of this year, I did an F# mentorship with Mathias Brandewinder.
 
