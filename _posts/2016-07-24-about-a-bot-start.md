@@ -2,7 +2,6 @@
 layout: post
 title: About a bot [Part I - How it started]
 tags:
-- fsharp
 - F#
 - mentorship
 ---

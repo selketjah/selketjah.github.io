@@ -2,7 +2,6 @@
 layout: post
 title: About a bot [Part II - some numbers]
 tags:
-- fsharp
 - F#
 - mentorship
 ---
