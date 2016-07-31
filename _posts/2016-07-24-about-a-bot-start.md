@@ -54,7 +54,7 @@ some of the nerves you have. ;-)
 
 ## Let's get this party started
 
-Besides finding the right tools for the job, finding the right moment to have a session is the second hurtle
+Besides finding the right tools for the job, finding the right moment to have a session is the second hurdle
 you have to take. 
 Although we didn't have difficulties with this, I can imagine this being a bit of a struggle.
 We were living in different time zones, so when we e-mailed about setting up the sessions, we always
