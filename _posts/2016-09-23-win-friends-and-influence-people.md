@@ -3,7 +3,7 @@ layout: post
 title: How to win friends and influence people by Dan Cargil
 tags:
 - books
-- people skills
+- people-skills
 ---
 
 The hardest part about programming is people.
