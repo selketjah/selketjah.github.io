@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to win friends and influence people by Dan Cargil
+title: How to win friends and influence people by Dale Carnegie
 tags:
 - books
 - people-skills
