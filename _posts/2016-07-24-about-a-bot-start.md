@@ -6,10 +6,10 @@ tags:
 - mentorship
 ---
 
-So, in the beginning of the year I did a remote F# mentorship with [Mathias Brandewinder](http://brandewinder.com/). 
-This is the first blogpost that will be part of a serie about the mentorship.
+So, in the beginning of the year I did a remote F# mentorship with [Mathias Brandewinder](http://brandewinder.com/).
+This is the first blogpost that will be part of a series about the mentorship.
 
-It was a super fun experience, but organising remote programming sessions does come with some struggles. 
+It was a super fun experience, but organising remote programming sessions does come with some struggles.
 In this blogpost I will cover the general setup of the mentorship and the issues we came across during it.
 
 <!--more-->
@@ -23,7 +23,7 @@ Although I loved the level of focus, this is one of the things I recommend doing
 Take a bit of time during that first session to have a general conversation if you are not acquainted with one another to break the ice.
 
 Having a camera up and running during the sessions is also a big help to make them better (read less awkward ;-)).
-During the fourth there was a video feed. We hadn't been able to get the video working up until then (more about that later), 
+During the fourth there was a video feed. We hadn't been able to get the video working up until then (more about that later),
 but I noticed that it made it a lot easier for me to speak up.
 
 ## Hello, can you hear me?
@@ -33,28 +33,28 @@ other and share your screen was actually a difficult process in the beginning.
 
 We tried a variety of ways to do it:
 First, there was Google Hangouts. It hates us, I swear!
-Althought we both had successful hangouts with other people, we did not get this to work _at all_. Why? Well, because.
+Although we both had successful hangouts with other people, we did not get this to work _at all_. Why? Well, because.
 
-Second, I looked into ScreenHero because I heard good things about the tool. Unfortunatly, at that point in time they were
+Second, I looked into ScreenHero because I heard good things about the tool. Unfortunately, at that point in time they were
 migrating into Slack and I couldn't check it out. Right now the migration is finished, but it was a full Slack integration
 and you cannot use the product separately anymore. How exactly it works right now, I don't know.
 
-Next up was Teamviewer. Teamviewer is a collaboration tool and is available for most operating systems and is free for private usage.
+Next up was TeamViewer. TeamViewer is a collaboration tool and is available for most operating systems and is free for private usage.
 It should be able to do audio, video and screen collaboration, but we did not get the audio and video to work. To be honest, after all the trouble
 we had with the other tools, I wasn't in the mood anymore to try to get it to work.
 
-We ended up with a combination of Teamviewer and Skype.
+We ended up with a combination of TeamViewer and Skype.
 You have screen sharing on Skype, but not screen collaboration (as far as I know). It's important that both parties have control
 over the screen. Even if you don't type, it's very handy to be able to point or select some code when asking a question.
 
 Having to tackle these kind of problems is very frustrating, but it did have an upside too.
 It helped with the 'strangers on a train'. There is something about cursing together at Google Hangouts that breaks the ice and takes away
-some of the nerves you have. ;-) 
+some of the nerves you have. ;-)
 
 ## Let's get this party started
 
 Besides finding the right tools for the job, finding the right moment to have a session is the second hurdle
-you have to take. 
+you have to take.
 Although we didn't have difficulties with this, I can imagine this being a bit of a struggle.
 We were living in different time zones, so when we e-mailed about setting up the sessions, we always
 included both times. Very handy!
@@ -65,26 +65,26 @@ I will dedicate the next blogpost about those sessions, so I will not go into de
 
 After that, we had 6 sessions where we worked on a project together. We made a twitter quiz bot! So cool :-D
 Because we hadn't covered all interesting F# topics yet (we still haven't), the homework continued.
-Going over it ate up a lot of our project time, so we introduced a 15 minute time box to answer the questions I had 
+Going over it ate up a lot of our project time, so we introduced a 15 minute time box to answer the questions I had
 during the week about it. After the 15 minutes were up, we continued on the project.
 In the coming posts of this series I will go into more detail of the project.
 
-One thing we agreed upon during the retrospective was that one hour wasn't long enough to make serious progress on the 
+One thing we agreed upon during the retrospective was that one hour wasn't long enough to make serious progress on the
 bot, and the sessions never ended after one hour (we were having too much fun). It would be better to find a different format for the project sessions.
-You could do 4 sessions of 2 hours, or 5 of one and a half... 
+You could do 4 sessions of 2 hours, or 5 of one and a half...
 
 ## How did we do?
 
 Seeing how this was the first time for both of us to participate in a mentorship, we knew it would be a trial-and-error approach.
 I am actually very happy with the way the mentorship went: pretty much everything was trial, but we had very little error.
-Still, it is important to know where things could be improved for mentor and mentee, so we had two retrospectives: 
+Still, it is important to know where things could be improved for mentor and mentee, so we had two retrospectives:
 one after the first 4 sessions, before we started the project and the other at the end of the mentorship.
 
 The first one was initiated by Mathias and was via e-mail. I really liked that.
 It gave me some time to think about the answers and how to formulate my feedback in a way that didn't sound negative.
 
 The second retrospective was organized as an eleventh session. We both thought about what we wanted to ask (or say) and
-send the questions upfront to each other so we had some time to formulate the answers. Open and honest retrospectives can be 
+send the questions upfront to each other so we had some time to formulate the answers. Open and honest retrospectives can be
 a hardship sometimes, so preparing for it can make all the difference.
 Below you can find our questions for inspiration.
 

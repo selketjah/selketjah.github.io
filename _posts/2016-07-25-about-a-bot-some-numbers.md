@@ -40,11 +40,11 @@ Number of sessions
 Maximum of hours spend doing my homework.
 
 ## Infinite
-Amount of suffering we had trying to find the right tools for the job. In the end we settled for teamviewer 
+Amount of suffering we had trying to find the right tools for the job. In the end we settled for TeamViewer
 for screen collaboration and Skype for audio/video.
 
 ## 42
 If you have any questions about the mentorship, please feel free to contact me via Twitter (or other means)
 
 If you would like to participate in one, you are lucky! The F# community also organizes mentorships!
-more info can be found [here](http://fsharp.org/mentorship/about.html) Next round will start somwhere in september.
+more info can be found [here](http://fsharp.org/mentorship/about.html) Next round will start somewhere in September.
