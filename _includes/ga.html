@@ -10,7 +10,7 @@
     page: location.pathname
   });
 
-  windows.onload = function () {
+  window.onload = function () {
     var titles = document.getElementsByClassName('ga-tracking-title');
     for(var i = 0; i < titles.length; i++) {
       ga('send', {
