@@ -28,14 +28,14 @@ During BuildStuff this year, I had the pleasure of meeting a few community membe
 with projects like [Ionide](http://ionide.io/) and [Forge](http://forge.run/) 
 
 It was a good opportunity to remove some of the reasons I kept postponing.
-I strapped on by Boots of Courage and asked him if he would be willing to take me through the [code of Forge](https://github.com/fsharp-editing/Forge).
+I strapped on my Boots of Courage and asked him if he would be willing to take me through the [code of Forge](https://github.com/fsharp-editing/Forge).
 He was.
 
 So we sat down and went through the code. He explained the big lines of the project: how Forge works, the tests and the general architecture. 
 He challenged me to make my first pull request by the next week and I accepted that challenge.
 
 After a while we started talking about open source in general. His way of handling his open source projects is very similar
-to Pieters: any contribution, no matter how small it may seem, is valued.
+to Pieter's: any contribution, no matter how small it may seem, is valued.
 It was.
 
 ## Forging ahead
