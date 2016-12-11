@@ -24,12 +24,14 @@ When I learned F#, I fell in love with the language and the community. The commu
 starting to contribute was very scary for me for a couple of reasons.
 
 The idea that you can do something wrong in a very public setting, is one of the reasons I kept postponing a contribution.
-During BuildStuff this year, I had the pleasure to meet Krzysztof Cieslak. He has done some really great work in the F# community
+During BuildStuff this year, I had the pleasure of meeting a few community members, including [Krzysztof Cieslak](https://twitter.com/k_cieslak). He has done some really great work in the F# community
 with projects like [Ionide](http://ionide.io/) and [Forge](http://forge.run/) 
 
 It was a good opportunity to remove some of the reasons I kept postponing.
 I strapped on by Boots of Courage and asked him if he would be willing to take me through the [code of Forge](https://github.com/fsharp-editing/Forge).
-He was. So we went through the code and he explained the big lines on how Forge works behind the scenes. 
+He was.
+
+So we sat down and went through the code. He explained the big lines of the project: how Forge works, the tests and the general architecture. 
 He challenged me to make my first pull request by the next week and I accepted that challenge.
 
 After a while we started talking about open source in general. His way of handling his open source projects is very similar
@@ -38,7 +40,7 @@ It was.
 
 ## Forging ahead
 
-If you never contributed, the best place to start is reading the contribution guidelines.
+If you never contributed, the best place to start are the contribution guidelines.
 Although the setup can vary from project to project, the initial setup can be generalised in the following steps:
 
 - fork the repository
