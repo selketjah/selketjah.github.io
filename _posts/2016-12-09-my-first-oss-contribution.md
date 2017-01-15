@@ -72,4 +72,4 @@ In the end my first successful cycle contained two PR's and I have a very clear 
 Every project can be helped from adding a few tests, cleaning up a few lines of code and the maintainers will be extremely grateful.
 To see so many fantastic reactions for even such a small contribution, well ... it made me feel pretty great!
 
-So I will leave the small stuff for those who want to [start contributing](https://github.com/fsharp-editing/Forge/wiki/How-to-contribute-to-Forge%3F), and try something a bit bigger. ;-)
+So I will leave the small stuff for those who want to [start contributing](https://github.com/fsharp-editing/Forge/wiki/How-to-contribute-to-Forge), and try something a bit bigger. ;-)
