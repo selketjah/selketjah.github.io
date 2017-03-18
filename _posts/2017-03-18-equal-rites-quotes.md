@@ -11,19 +11,19 @@ Here are my most favorite sentences from the book:
 
 > ‘You’re a bit young for this,’ she said, ‘but as you grow older you’ll find most people don’t set foot outside their own heads much. You too,’ she added gnomically. (p. 46)
 
----
+<br>
 
 > The landlord of the Fiddler’s Riddle considered himself to be a man of the world, and this was right, because he was too stupid to be really cruel, and too lazy to be really mean and although his body had been around quite a lot his mind had never gone further than the inside of his own head. (p. 82)
 
----
+<br>
 
 > He was stupid, yes, in the particular way that very clever people can be stupid. (p. 122).
 
----
+<br>
 
 > Her clients had money, which was useful, but they also paid in respect, and that was a rock-hard currency. (p. 137).
 
----
+<br>
 
 > They both savoured the strange warm glow of being much more ignorant than ordinary people, who were ignorant of only ordinary things. (p. 182).
 
