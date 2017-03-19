@@ -3,7 +3,7 @@ layout: post
 title: The Light Fantastic by Terry Pratchett
 tags:
 - books
-- discworld quotes
+- discworld
 ---
 
 In the beginning of 2017 I decided to try and read as much Discworld novels as possible. (Besides the 25 book challenge that I set for myself)

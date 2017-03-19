@@ -3,7 +3,7 @@ layout: post
 title: Equal rites by Terry Pratchett
 tags:
 - books
-- discworld quotes
+- discworld
 ---
 
 I just finished reading the third book of the Discworld novels by Terry Pratchett, [Equal Rites](https://www.goodreads.com/book/show/34507.Equal_Rites).
