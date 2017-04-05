@@ -26,14 +26,14 @@ Hence, the creation of a 'drama test'.
 
 ## The drama test
 
-- The 4 basics: date, links, introduction, comments
+### The 4 basics: date, links, introduction, comments
 
 If the articles on the blog doesn't have these four basic things, I don't even start reading it.
 There are so much blogs out there these days, that the chances are very slim that it is the only blog out there that covers the subject.
 And if it is, you can always turn to papers or books to understand the subject better.
 
 
-- How do you know this?
+### How do you know this?
 
 'A paper was published today ... '
 'New research suggest that ... '
@@ -44,12 +44,12 @@ If you don't tell me where I can find the paper, or ever worse, if you don't eve
 After three articles without any references, I remove the blog from my feedly.
 
 
-- Lists, lists everywhere :-(
+### Lists, lists everywhere :-(
 
 If I see three articles in a row that are just "10 things that", "5 ways to", I remove it from my reading list.
 Most of those articles are too shallow to give you a clear understanding of the subject.
 
-- roll eye articles
+### roll eye articles
 
 Check out the screenshot below. They all cover the same topic, but the way the information represent it, is very different from one another.
 Some blogs or online newspapers care more about creating sensation than informing their readers.
