@@ -17,6 +17,7 @@ author:
   url:            https://twitter.com/selketjah
 
 paginate:         5
+excerpt_separator: <!--more-->
 
 # Custom vars
 version:          1.0.0
