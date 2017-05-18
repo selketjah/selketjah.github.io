@@ -19,8 +19,3 @@ So I decided to buy the epub version of the book, just to look up the quote and 
 
 > What is usually meant by the term craftsmanship is the production of things of high quality; Ruskin makes the crucial point that a thing may also be judged according to the conditions under which it was built.
 
-----
-
-Version of the book
-
-[Kidder, Tracy. The Soul of A New Machine. Little, Brown and Company. Kindle Edition.](http://amzn.to/2pIp0RN)
