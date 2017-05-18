@@ -9,8 +9,8 @@ permalink:        pretty
 title:            selketjah
 tagline:          'Blog about books and sometimes about programming'
 description:      ''
-url:              http://selketjah.github.io/
-baseurl:          http://selketjah.github.io/
+url:              https://selketjah.github.io/
+baseurl:          https://selketjah.github.io/
 
 author:
   name:           'Gien Verschatse'
