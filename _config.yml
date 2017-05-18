@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            selketjah
-tagline:          ''
+tagline:          'Blog about books and sometimes about programming'
 description:      ''
 url:              http://selketjah.github.io/
 baseurl:          http://selketjah.github.io/
@@ -19,7 +19,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          0.0.0
+version:          1.0.0
 
 github:
   repo:           https://github.com/selketjah/selketjah.github.io
