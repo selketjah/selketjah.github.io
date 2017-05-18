@@ -6,6 +6,7 @@ tags:
 ---
 
 A while back I started listening to audio books on my way to work.
+
 The last book I listened to was called "The soul of a new machine", written by Tracy Kidder.
 'The soul of a new machine' talks about the development of a new 32-bit minicomputer in the late '70s. It received a Pulitzer prize.
 
