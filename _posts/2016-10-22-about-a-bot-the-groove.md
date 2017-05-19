@@ -14,7 +14,7 @@ Below you can find a list of topics covered, with links towards extra learning m
 * [Seq module](https://msdn.microsoft.com/en-us/library/ee353635.aspx)
 * [Choosing between collection functions](http://fsharpforfunandprofit.com/posts/list-module-functions/)
 
-## Introduction into function, partial application, |> and >> (session 2)
+## Introduction into function, partial application, |> and composition (session 2)
 
 * [Partial Application](http://fsharpforfunandprofit.com/posts/partial-application/)
 * [Pipe forward and pipe backward](http://theburningmonk.com/2011/09/fsharp-pipe-forward-and-pipe-backward/)
