@@ -1,8 +1,9 @@
+---
 layout: post
-title: Getting started with Fable
+title: Getting started with F# Fable
 tags:
-- F#
 - Fable
+- F#
 ---
 
 Getting started with fable is really easy! If you use dotnet, all you need to learn are these 5 simple commands to have a simple Fable project up and running:
