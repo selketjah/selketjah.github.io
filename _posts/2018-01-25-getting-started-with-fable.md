@@ -6,7 +6,7 @@ tags:
 - F#
 ---
 
-Getting started with fable is really easy! If you use dotnet, all you need to learn are these 5 simple commands to have a simple Fable project up and running:
+Getting started with fable is really easy! If you use dotnet, all you need to learn are these 5 simple commands to have a Fable project up and running:
 
 ```
 dotnet new -i Fable.Template
@@ -16,10 +16,10 @@ dotnet restore
 dotnet fable npm-start
 ```
 
-There is some great documentation on the website with some explanation about the commands, how and when to execute them, which you can find [here](http://fable.io/docs/) 
+There is some great documentation on the website with some explanation about the commands, how and when to execute them, which you can find [here](http://fable.io/docs/).
 
-There is just one problem: I haven't been paying a lot of attention to the whole front-end scene these last few years and things have really changed. I just didn't understand what was going on behind the scenes...
-So when I tried to move away from the default layout that the template offers, I ran into a few problems and I didn't even know how to start fixing things that weren't working like they were suppose to. So, that is why I decided to get [Fable-Elmish with react](https://fable-elmish.github.io/react/) up and running without using the templates that are available.
+There is just one problem: I haven't been paying a lot of attention to the whole front-end scene these last few years and things have really changed. I just didn't understand what was going on behind the scene...
+So when I tried to move away from the default layout that the template offers, I ran into a few problems and I didn't even know how to start fixing things. So, that is why I decided to get [Fable-Elmish with react](https://fable-elmish.github.io/react/) up and running without using the template that is available.
 
 <!--more-->
 
@@ -35,9 +35,9 @@ As a side note:
 
 <!-- -->
 
-1. Add [Paket](https://fsprojects.github.io/Paket/getting-started.html)
+### 1. Add [Paket](https://fsprojects.github.io/Paket/getting-started.html)
 
-2. Add the [dependencies](https://fsprojects.github.io/Paket/getting-started.html#Installing-dependencies)
+### 2. Add the [dependencies](https://fsprojects.github.io/Paket/getting-started.html#Installing-dependencies)
 ```
 source https://nuget.org/api/v2
 
@@ -53,14 +53,15 @@ nuget FSharp.Core
 clitool dotnet-fable
 ```
 
-3. Initiate the structure:
+### 3. Initiate the structure
 * create src and public folders
 * Add a new library project in the src folder
+
 ```
 dotnet new classlib -n Client -lang F#
 ```
 
-4. Add [references](https://fsprojects.github.io/Paket/getting-started.html#Installing-dependencies-into-projects)
+### 4. Add [references](https://fsprojects.github.io/Paket/getting-started.html#Installing-dependencies-into-projects)
 
 ```
 FSharp.Core
@@ -72,7 +73,7 @@ Fable.Elmish.HMR
 dotnet-fable
 ```
 
-5. Create `webpack.config.js` file in your root folder and don't forget to change the path in `module.exports` so it can find your fsproj correctly.
+### 5. Create `webpack.config.js` file in your root folder and don't forget to change the path in `module.exports` so it can find your fsproj correctly.
 
 ``` js
 var path = require("path");
@@ -152,7 +153,7 @@ module.exports = {
 };
 ```
 
-6. Create `package.json` file
+### 6. Create `package.json` file
 
 ``` json
 {
@@ -192,7 +193,7 @@ module.exports = {
 }
 ```
 
-7. Create `index.html` in the `public` folder 
+### 7. Create `index.html` in the `public` folder 
 
 ``` html
 <!doctype html>
@@ -211,9 +212,9 @@ module.exports = {
 </html>
 ```
 
-8. run `npm install`
+### 8. run `npm install`
 
-9. create `App.fs` and add it to your project file
+### 9. create `App.fs` and add it to your project file
 
 ``` fsharp
 module App.View
@@ -253,7 +254,7 @@ module App.View
 
 ```
 
-10. add `yourapp.sln` file in your root folder
+### 10. add `yourapp.sln` file in your root folder
 
 ```
 Microsoft Visual Studio Solution File, Format Version 12.00
@@ -275,6 +276,6 @@ EndGlobal
 
 ```
 
-11. run `dotnet restore`
+### 11. run `dotnet restore`
 
-12. run `dotnet fable npm-run start` in the `src/Client` folder. This creates bundle.js and bundle.js.map files in public folder.
+### 12. run `dotnet fable npm-run start` in the `src/Client` folder. This creates bundle.js and bundle.js.map files in public folder.
