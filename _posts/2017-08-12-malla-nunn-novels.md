@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Detective Emmanuel Cooper Books by Malla Nunn
+category: books
+date: August 12, 2017
 tags:
 - books
 ---
@@ -9,6 +11,8 @@ tags:
 
 > The army had discharged him, but it hadn’t let him go. (p. 6)
 <br>
+
+<!--more-->
 
 <!-- -->
 

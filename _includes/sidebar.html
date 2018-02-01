@@ -1,34 +1,70 @@
-<div class="sidebar">
-  <div class="container sidebar-sticky">
-    <div class="sidebar-about">
-      <h1>
-        <a href="{{ site.baseurl }}">
-          {{ site.title }}
-        </a>
-      </h1>
-      <p class="lead">{{ site.description }}</p>
-    </div>
+<!-- Preloader Gif -->
+<table class="doc-loader">
+  <tbody>
+      <tr>
+          <td>
+              <img src="public/assets/ajax-document-loader.gif" alt="Loading...">
+          </td>
+      </tr>
+  </tbody>
+</table>
 
-    <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
-
-      {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
-
-      {% assign pages_list = site.pages %}
-      {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.layout == "page" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-          {% endif %}
-        {% endif %}
-      {% endfor %}
-
-      <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
-    </nav>
-
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+<!-- Left Sidebar -->
+<div id="sidebar" class="sidebar">
+  <div class="menu-left-part">
+      <div class="search-holder">
+          <label>
+              <input type="search" class="search-field" placeholder="Type here to search..." value="" name="s" title="Search for:">
+          </label>
+      </div>
+      <div class="site-info-holder">
+          <h1 class="site-title">{{ site.title }}</h1>
+          <p class="site-description">
+              {{ site.description }}
+          </p>
+      </div>
+      <nav id="header-main-menu">
+          <ul class="main-menu sm sm-clean">
+              {% assign pages_list = site.pages %}
+              {% for node in pages_list %}
+                {% if node.title != null %}
+                  {% if node.layout == "page" %}
+                    <li>
+                      <a class="{% if page.url == node.url %}current{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+                    </li>
+                  {% endif %}
+                {% endif %}
+              {% endfor %}
+          </ul>
+      </nav>
+      <footer>
+          <div class="footer-info">
+              <p>&copy; {{ site.time | date: '%Y' }}. ALL RIGHTS RESERVED.
+                  <br> TEMPLATE CRAFTED WITH <i class="fa fa-heart"></i> BY <a href="https://colorlib.com">COLORLIB</a>.
+              </p>
+          </div>
+      </footer>
   </div>
+  <div class="menu-right-part">
+      <div class="logo-holder">
+          <a href="{{ site.baseurl }}">
+              <i class="fa fa-home"></i>
+          </a>
+      </div>
+      <div class="toggle-holder">
+          <div id="toggle">
+              <div class="menu-line"></div>
+          </div>
+      </div>
+      <div class="social-holder">
+          <div class="social-list">
+              <a href="https://twitter.com/selketjah"><i class="fa fa-twitter"></i></a>
+              <a href="https://github.com/selketjah"><i class="fa fa-github-alt"></i></a>
+              <a href="https://www.goodreads.com/selketjah"><i class="fa fa-goodreads"></i></a>
+              <a href="http://www.eightpointsquared.com/"><i class="fa fa-building"></i></a>
+          </div>
+      </div>
+      <div class="fixed scroll-top"><i class="fa fa-caret-square-o-up" aria-hidden="true"></i></div>
+  </div>
+  <div class="clear"></div>
 </div>

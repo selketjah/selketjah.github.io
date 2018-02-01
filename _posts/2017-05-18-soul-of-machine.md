@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The soul of a new machine by Tracy Kidder
+category: books
+date: May 18, 2017
 tags:
 - books
 ---
@@ -9,6 +11,8 @@ A while back I started listening to audio books on my way to work.
 
 The last book I listened to was called "The soul of a new machine", written by Tracy Kidder.
 "The soul of a new machine" talks about the development of a new 32-bit minicomputer in the late 70s. It received a Pulitzer prize.
+
+<!--more-->
 
 At the end of the book, there was one quote that made me pause the audio because I thought it was so interesting to think about.
 In my talk "Playing nice together", I explain the context in which our C# monolith was developed. I believe it is very important to understand (and respect) why things are the way they are.

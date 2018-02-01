@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Always catching up
+category: books
+date: April 05, 2017
 tags:
 - books
 ---

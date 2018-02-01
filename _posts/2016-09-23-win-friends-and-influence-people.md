@@ -1,6 +1,8 @@
 ---
 layout: post
 title: How to win friends and influence people by Dale Carnegie
+category: books
+date: September 23, 2016
 tags:
 - books
 - people-skills
@@ -9,6 +11,9 @@ tags:
 The hardest part about programming is people.
 
 Well, that might be a bit exaggerated, but 'How do I deal with person X or behavior Y in my company?' is a question that often pops up during meetups or (un)conferences. Apparently, a lot of developers struggle with the people part of programming, and I am no exception.
+
+<!--more-->
+
 That is why I started reading up on it. In the end communication, conflict handling and all such are just skills that we need to
 practice to get better at it.
 

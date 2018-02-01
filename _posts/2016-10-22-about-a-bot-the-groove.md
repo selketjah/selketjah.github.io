@@ -1,6 +1,8 @@
 ---
 layout: post
 title: About a bot [Part III - the Groove]
+category: F#
+date: October 22, 2016
 tags:
 - F#
 - mentorship
@@ -8,6 +10,8 @@ tags:
 
 As you already know from [my previous blogpost](http://selketjah.github.io/2016/07/24/about-a-bot-start/), I did a F# mentorship with [Mathias Brandewinder](http://brandewinder.com/) in the beginning of the year.
 Below you can find a list of topics covered, with links towards extra learning material.
+
+<!--more-->
 
 ## seq, list and array (session 1)
 

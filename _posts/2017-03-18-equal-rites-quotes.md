@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Equal rites by Terry Pratchett
+category: books
+date: March 18, 2017
 tags:
 - books
 - discworld
@@ -8,6 +10,8 @@ tags:
 
 I just finished reading the third book of the Discworld novels by Terry Pratchett, [Equal Rites](https://www.goodreads.com/book/show/34507.Equal_Rites).
 Here are my most favorite sentences from the book:
+
+<!--more-->
 
 > ‘You’re a bit young for this,’ she said, ‘but as you grow older you’ll find most people don’t set foot outside their own heads much. You too,’ she added gnomically. (p. 46)
 <br>

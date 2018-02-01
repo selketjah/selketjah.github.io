@@ -1,41 +1,40 @@
 ---
 layout: default
 title: Home
+class: home blog
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}" class="ga-tracking-title" onclick="sendClick('{{post.url}}')" >
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.excerpt }}
-
-    <a href="{{ post.url }}">
-        More...
-    </a>
-  </div>
-  {% endfor %}
+<div id="blog-wrapper">
+    <div class="blog-holder center-relative">
+        {% for post in paginator.posts %}
+        <article id="post-1" class="blog-item-holder featured-post">
+            <div class="entry-content relative">
+                <div class="content-1170 center-relative">
+                    <div class="cat-links">
+                        <ul>
+                            <li>
+                                <a href="#">{{ page.category }}</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="entry-date published">{{ post.date | date_to_string }}</div>
+                    <h2 class="entry-title">
+                        <a href="{{ post.url }}" class="ga-tracking-title" onclick="sendClick('{{post.url}}')">Whatever is begun in anger ends in shame</a>
+                    </h2>
+                    <div class="excerpt">
+                        {{ post.excerpt }}
+                        <a class="read-more" href="{{ post.url }}" class="ga-tracking-title" onclick="sendClick('{{post.url}}')"></a>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </article>
+        {% endfor %}
+    </div>
+    <div class="featured-image-holder">
+        <div class="featured-post-image" style="background-image: url(public/assets/home.jpg)"></div>
+    </div>
+    <div class="clear"></div>
 </div>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+<div class="clear"></div>

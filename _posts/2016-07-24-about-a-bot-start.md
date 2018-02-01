@@ -1,6 +1,8 @@
 ---
 layout: post
 title: About a bot [Part I - How it started]
+category: F#
+date: July 24, 2016
 tags:
 - F#
 - mentorship

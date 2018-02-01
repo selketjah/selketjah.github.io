@@ -1,6 +1,8 @@
 ---
 layout: post
 title: About a bot [Part II - some numbers]
+category: F#
+date: July 27, 2016
 tags:
 - F#
 - mentorship
@@ -12,6 +14,8 @@ In the beginning of this year, I did an F# mentorship with Mathias Brandewinder.
 If you want the quick version of the general setup of the mentorship, you are in the right place!
 This is just a summary with little detail as a future reference point for those who read the entire thing.
 You can find the full story [here](http://selketjah.github.io/2016/07/24/about-a-bot-start/).
+
+<!--more-->
 
 ## 1
 Duration of each session.

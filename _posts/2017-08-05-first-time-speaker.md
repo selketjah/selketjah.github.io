@@ -1,6 +1,8 @@
 ---
 layout: post
 title: First time speaker
+category: speaker
+date: August 05, 2017
 tags:
 - speaker
 - mentorship
@@ -8,6 +10,8 @@ tags:
 
 In the beginning of this year, I submitted a talk to some conferences and ... it got accepted! A yeey and oh dear moment in one. Talking was a great experience and I will continue to do it, but it was also difficult at times. So I thought I would cover some aspects of preparing for public speaking that helped me a lot.
 Let's start with the most difficult thing: finding a topic.
+
+<!--more-->
 
 ## Topic
 

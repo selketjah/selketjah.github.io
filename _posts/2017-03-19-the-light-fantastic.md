@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The Light Fantastic by Terry Pratchett
+category: books
+date: March 19, 2017
 tags:
 - books
 - discworld
@@ -8,6 +10,8 @@ tags:
 
 In the beginning of 2017 I decided to try and read as much Discworld novels as possible. (Besides the 25 book challenge that I set for myself)
 My guess is that I will be able to read 10! As a motivation for myself, I decided to post the highlights I make while reading online.
+
+<!--more-->
 
 The first book I have in paperback, so I can't give you my favorite quotes for that one, but for all the others I will post them here.
 So, yesterday I did [Equal Rites](http://selketjah.github.io/2017/03/18/equal-rites-quotes/) and today I give you the highlights of the second book, [The Light Fantastic](https://www.goodreads.com/book/show/34506.The_Light_Fantastic).

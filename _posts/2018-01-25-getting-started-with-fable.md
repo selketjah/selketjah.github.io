@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Getting started with F# Fable
+category: fable
+date: January 25, 2018
 tags:
 - Fable
 - F#
@@ -15,6 +17,8 @@ npm install
 dotnet restore
 dotnet fable npm-start
 ```
+
+<!--more-->
 
 There is some great documentation on the website with some explanation about the commands, how and when to execute them, which you can find [here](http://fable.io/docs/).
 

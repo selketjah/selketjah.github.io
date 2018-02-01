@@ -1,11 +1,15 @@
 ---
 layout: post
 title: Cakes, Custard and Category Theory by Eugenia Cheng
+category: books
+date: April 11, 2017
 tags:
 - books
 ---
 
 If you want to get a general feeling of what category theory is all about and whether or not it is something you want to learn more about, this is the right book for you! The analogies between everyday actions, like making food, and category theory are easy to understand. 
+
+<!--more-->
 
 ### PART I: Mathematics
 

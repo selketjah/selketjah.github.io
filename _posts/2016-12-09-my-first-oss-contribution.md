@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Forge, my first OSS contribution
+category: F#
+date: December 09, 2016
 tags:
 - F#
 - Forge
@@ -10,6 +12,8 @@ tags:
 When speaking to [Pieter Hintjens](http://hintjens.com/) about open source communities and how they should behave towards newcomers, 
 he said that a first successful contribution is one of the most important things in a project. Successful meaning that their pull request gets merged back into the project.
 Even if the pull request breaks the build, just merge it back. Especially, if you want them to keep contributing.
+
+<!--more-->
 
 Aftwards you can send them a nice message saying: 'Hey, your PR broke the build because of x or y, but we merged it anyways. This is how you can prevent it from happening again.'
 If they keep submitting pull requests that break the build and don't bother fixing it, draw your conclusions.
