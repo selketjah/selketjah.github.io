@@ -20,7 +20,7 @@ class: home blog
                     </div>
                     <div class="entry-date published">{{ post.date | date_to_string }}</div>
                     <h2 class="entry-title">
-                        <a href="{{ post.url }}" class="ga-tracking-title" onclick="sendClick('{{post.url}}')">Whatever is begun in anger ends in shame</a>
+                        <a href="{{ post.url }}" class="ga-tracking-title" onclick="sendClick('{{post.url}}')">{{ post.title }}</a>
                     </h2>
                     <div class="excerpt">
                         {{ post.excerpt }}
