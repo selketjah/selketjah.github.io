@@ -6,6 +6,7 @@ class: home blog
 
 <div id="blog-wrapper">
     <div class="blog-holder center-relative">
+        
         {% for post in paginator.posts %}
         <article id="post-1" class="blog-item-holder featured-post">
             <div class="entry-content relative">
@@ -30,11 +31,12 @@ class: home blog
             </div>
         </article>
         {% endfor %}
-    </div>
-    <div class="featured-image-holder">
-        <div class="featured-post-image" style="background-image: url(public/assets/home.jpg)"></div>
+
     </div>
     <div class="clear"></div>
 </div>
 
+<div class="featured-image-holder">
+    <div class="featured-post-image" style="background-image: url(public/assets/home.jpg)"></div>
+</div>
 <div class="clear"></div>
