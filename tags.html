@@ -4,22 +4,31 @@ title: Tags
 class: about page page-template-default
 ---
 
-<p class="message">
-  Because we all enjoy some grouping.
-</p>
-
-{% capture tags %}
-  {% for tag in site.tags %}
-    {{ tag[0] }}
-  {% endfor %}
-{% endcapture %}
-{% assign sortedtags = tags | split:' ' | sort %}
-
-{% for tag in sortedtags %}
-  <h3 id="{{ tag }}">{{ tag }}</h3>
-  <ul>
-  {% for post in site.tags[tag] %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-  </ul>
-{% endfor %}
+<article>
+  <div class="content-1070 center-relative entry-content">
+      <div class="content-900 center-relative">
+          <h1 class="entry-title">Because we all enjoy some grouping.</h1>
+          <div class="one_half">
+            {% capture tags %}
+              {% for tag in site.tags %}
+                {{ tag[0] }}
+              {% endfor %}
+            {% endcapture %}
+            {% assign sortedtags = tags | split:' ' | sort %}
+            
+            {% for tag in sortedtags %}
+              <h3 id="{{ tag }}">{{ tag }}</h3>
+              <ul>
+              {% for post in site.tags[tag] %}
+                <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+              {% endfor %}
+              </ul>
+            {% endfor %}
+          </div>
+          <div class="clear"></div>
+          <br>
+          <br>
+          <div class="clear"></div>
+      </div>
+  </div>
+</article>
