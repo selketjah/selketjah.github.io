@@ -445,8 +445,10 @@ body.open .site-content
 .blog-item-holder .entry-content .entry-title
 {
     font-size: 48px;
-    line-height: 50px;  
-    padding-bottom: 40px;
+    font-family: 'Montserrat', sans-serif, Arial;
+    line-height: 30px;
+    padding-top: 35px;
+    padding-bottom: 0;
 }
 
 .blog-item-holder .entry-content .entry-title a
@@ -457,15 +459,6 @@ body.open .site-content
 .blog-item-holder .entry-content .entry-title a:hover
 {
     color: #0697ae;
-}
-
-.blog-item-holder .entry-content .entry-title
-{
-    font-family: 'Montserrat', sans-serif, Arial;
-    font-size: 30px;
-    line-height: 30px;
-    padding-top: 35px;
-    padding-bottom: 0;
 }
 
 .excerpt
