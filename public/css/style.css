@@ -439,7 +439,8 @@ body.open .site-content
 .blog-item-holder
 {
     transition: .2s filter ease-in-out;
-    -webkit-transition: .2s -webkit-filter ease-in-out;    
+    -webkit-transition: .2s -webkit-filter ease-in-out;
+    margin-bottom: 25px; 
 }
 
 .blog-item-holder .entry-content .entry-title
@@ -449,6 +450,11 @@ body.open .site-content
     line-height: 30px;
     padding-top: 1px;
     padding-bottom: 20px;
+}
+
+.blog-item-holder h1,h2,h3,h4,h5,h6
+{
+    padding: 0 0;
 }
 
 .blog-item-holder .entry-content .entry-title a
