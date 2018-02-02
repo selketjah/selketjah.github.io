@@ -452,8 +452,9 @@ body.open .site-content
     padding-bottom: 20px;
 }
 
-.blog-item-holder h1,h2,h3,h4,h5,h6
+.blog-item-holder h3
 {
+    font-size: 100%;
     padding: 0 0;
 }
 
