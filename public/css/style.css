@@ -121,12 +121,6 @@ input, textarea, select
     height: auto;
 }
 
-.blur
-{
-    filter: blur(2px);
-    -webkit-filter: blur(2px);
-}
-
 .scroll-top 
 {   
     display: none;
