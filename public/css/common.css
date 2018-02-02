@@ -652,6 +652,10 @@ span.cbp-biprev:before {
     display: block;
 }
 
+ul {
+    list-style: inside;
+}
+
 /* Code */
 code,
 pre {
