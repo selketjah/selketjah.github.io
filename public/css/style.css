@@ -444,11 +444,11 @@ body.open .site-content
 
 .blog-item-holder .entry-content .entry-title
 {
-    font-size: 48px;
+    font-size: 30px;
     font-family: 'Montserrat', sans-serif, Arial;
     line-height: 30px;
-    padding-top: 35px;
-    padding-bottom: 0;
+    padding-top: 1px;
+    padding-bottom: 20px;
 }
 
 .blog-item-holder .entry-content .entry-title a
