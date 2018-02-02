@@ -61,13 +61,13 @@ jQuery(document).ready(function () {
 
 jQuery(window).load(function () {
 
-    jQuery(".blog-item-holder").hover(function () {
+/*    jQuery(".blog-item-holder").hover(function () {
         jQuery(".blog-item-holder").not(this).addClass('blur');
     },
             function () {
                 jQuery(".blog-item-holder").removeClass('blur');
             });
-
+*/
 
 //Set menu
     jQuery('.main-menu').smartmenus({
