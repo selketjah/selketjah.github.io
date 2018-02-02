@@ -442,12 +442,7 @@ body.open .site-content
     -webkit-transition: .2s -webkit-filter ease-in-out;    
 }
 
-.featured-post
-{
-    padding-bottom: 105px;
-}
-
-.blog-item-holder.featured-post .entry-content .entry-title
+.blog-item-holder .entry-content .entry-title
 {
     font-size: 48px;
     line-height: 50px;  
