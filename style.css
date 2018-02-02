@@ -22,13 +22,13 @@ body
 body a
 {
     text-decoration: none;
-    color: #e86256;    
+    color: #0697AE;    
     transition: color .2s linear, background-color .2s linear, border-color .2s linear;
 }
 
 body a:hover
 {
-    color: #0697AE;
+    color: #e86256;
 }
 
 input, textarea, select 
