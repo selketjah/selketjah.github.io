@@ -208,23 +208,6 @@
 {
     width: 100%;
 }
-
-/*blockquote
-{
-    margin-top: 110px;
-    margin-bottom: 60px;
-    font-family: 'Montserrat', sans-serif, Arial;
-    font-size: 22px;
-    line-height: 35px;
-    color: #b0c2c2;
-}
-blockquote.inline-blockquote
-{
-    width: 395px;
-    float: left;
-    margin-left: -170px;
-    margin-right: 70px;
-}*/
 .wrap-blockquote
 {
     display: inline;

@@ -22,7 +22,7 @@ body
 body a
 {
     text-decoration: none;
-    color: #404040;    
+    color: #e86256;    
     transition: color .2s linear, background-color .2s linear, border-color .2s linear;
 }
 
