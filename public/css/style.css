@@ -434,7 +434,7 @@ body.open .site-content
 {
     transition: .2s filter ease-in-out;
     -webkit-transition: .2s -webkit-filter ease-in-out;
-    margin-bottom: 25px; 
+    margin-bottom: 50px; 
 }
 
 .blog-item-holder .entry-content .entry-title
