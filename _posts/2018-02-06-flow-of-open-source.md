@@ -39,6 +39,7 @@ Add the repo to your current configuration
 If you list the current configuration again, you will see that the upstream repository has been added to your configuration.
 
 ![git configuration origin and upstream]({{ site.baseurl }}public/images/configuration.png)
+
 _origin_ is your forked remote repository.
 _upstream_ is the original remote repository
 
