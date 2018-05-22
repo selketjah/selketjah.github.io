@@ -10,8 +10,7 @@ tags:
 ---
 
 About a month ago I went to F# eXchange, I wandered into a talk about Fable and Elmish, given by [Maxime Mangel](https://twitter.com/MangelMaxime).
-To be honest, I didn't think I would learn much. I know, you are not suppose to say that, but it is the truth.
-So, thinking I wouldn't learn much, I sat myself down in the last row and starting listening with half an ear.
+Before you read any further, you have to know something: I don't really like front-end development. But I have to know how to do it either way, So, I sat myself down in the last row and starting listening with half an ear.
 
 Until I heard a magical sentence:
 > "We could take the benefits of the compiler and intellisense by using another project, called Fulma, which allows you to strongly type your css."
@@ -37,20 +36,20 @@ I highly recommend that you to this manually at least once. Although templates a
 
 ## Installing Fulma in an existing project
 
-First thing you need to do, is add Fulma. I know, very surprising!
+First thing you need to do, is add `Fulma`. I know, very surprising!
 
 ```
 paket add Fulma --project <your project>
 ```
 
-You also need to install Bulma and FontAwesome...
+You also need to install `Bulma` and `FontAwesome`...
 
 ```
 yarn add bulma --dev
 yarn add font-awesome
 ```
 
-... and import them into your main.scss
+... and import them into your `main.scss`
 
 ``` css
 @import "./../../node_modules/bulma/sass/utilities/initial-variables";
@@ -62,7 +61,7 @@ $fa-font-path: "./../../node_modules/font-awesome/fonts/";
 @import './../../node_modules/bulma/bulma.sass';
 ```
 
-After that, you need to update your webpack.config.js file.
+After that, you need to update your `webpack.config.js` file.
 
 ```js
 //config entry
