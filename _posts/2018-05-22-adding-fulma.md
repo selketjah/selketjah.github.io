@@ -10,7 +10,10 @@ tags:
 ---
 
 About a month ago I went to F# eXchange, I wandered into a talk about Fable and Elmish, given by [Maxime Mangel](https://twitter.com/MangelMaxime).
-Before you read any further, you have to know something: I don't really like front-end development. But I have to know how to do it either way, So, I sat myself down in the last row and starting listening with half an ear.
+
+Before you read any further, you have to know something: I don't really like front-end development. But I have to know how to do it either way.
+
+So, I sat myself down in the last row and starting listening with half an ear.
 
 But then I heard a magical sentence:
 > "We could take the benefits of the compiler and intellisense by using another project, called Fulma, which allows you to strongly type your css."
