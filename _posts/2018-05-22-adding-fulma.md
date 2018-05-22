@@ -2,7 +2,7 @@
 layout: post
 title: Adding Fulma to an existing Fable project
 category: Fable
-date: April 29, 2018
+date: May 22, 2018
 tags:
 - Fable
 - F#
