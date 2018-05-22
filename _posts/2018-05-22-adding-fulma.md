@@ -16,6 +16,8 @@ So, thinking I wouldn't learn much, I sat myself down in the last row and starti
 Until I heard a magical sentence:
 > "We could take the benefits of the compiler and intellisense by using another project, called Fulma, which allows you to strongly type your css."
 
+<!--more-->
+
 I hate css. It is just one of those necessary evils that comes with the job. It is safe to say, the talk had my full attention at that point. Anything that makes it possible to avoid hard-coded class names and a lot of frustration because I make a lot of typos, is worth checking out! So I did and it is great.
 I made a nice summary so I will never forget how to make the necessary evil in my job a little bit more pleasant.
 
