@@ -12,7 +12,7 @@ tags:
 About a month ago I went to F# eXchange, I wandered into a talk about Fable and Elmish, given by [Maxime Mangel](https://twitter.com/MangelMaxime).
 Before you read any further, you have to know something: I don't really like front-end development. But I have to know how to do it either way, So, I sat myself down in the last row and starting listening with half an ear.
 
-Until I heard a magical sentence:
+But then I heard a magical sentence:
 > "We could take the benefits of the compiler and intellisense by using another project, called Fulma, which allows you to strongly type your css."
 
 <!--more-->
@@ -32,7 +32,7 @@ Using the template it really easy:
 ```
 
 I like easy, but I also like understanding what exactly I'm doing. So I added Fulma manually to an already existing project first.
-I highly recommend that you to this manually at least once. Although templates are fantastic things to have and I am very grateful they exist, they prevent you from banging your head against a desk to deeper insights on how Fulma works behind the scenes.
+I highly recommend that you to this manually at least once. Although templates are fantastic things to have and I am very grateful they exist, they prevent you from banging your head against a desk to deeper insights into how Fulma works behind the scenes.
 
 ## Installing Fulma in an existing project
 
