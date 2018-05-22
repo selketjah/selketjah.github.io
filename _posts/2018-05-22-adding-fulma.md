@@ -90,7 +90,7 @@ resolve('./../MuggleFront/scss/main.scss')
 
 And that's it! A few extra bruises on your forehead, but you are good to go ;-)
 
-## package.json
+### package.json
 
 ```json
 "dependencies": {
@@ -110,7 +110,9 @@ And that's it! A few extra bruises on your forehead, but you are good to go ;-)
 ### Info
 On 22-05-2018, when this blogpost was written:
 > The current version of `Fulma` is 1.0.0-beta-022
+
 > The current version of `Bulma` supported by Fulma is 0.7.1
+
 > The current version of `FontAwesome` supported by Fulma is 4.7.0
 
 ### Links
