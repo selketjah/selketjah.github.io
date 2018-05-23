@@ -23,6 +23,29 @@ But then I heard a magical sentence:
 I hate css. It is just one of those necessary evils that comes with the job. It is safe to say, the talk had my full attention at that point. Anything that makes it possible to avoid hard-coded class names and a lot of frustration because I make a lot of typos, is worth checking out! So I did and it is great.
 I made a nice summary so I will never forget how to make the necessary evil in my job a little bit more pleasant.
 
+## So, what exactly is Fulma?!
+
+In order the understand what Fulma is, you first need to know (Bulma)[https://bulma.io/] is. Bulma is an open source CSS framework based on (Flexbox)[https://www.w3schools.com/csS/css3_flexbox.asp]. The Flexible Box Layout Module, makes it easier to design flexible responsive layout structure without using float or positioning. (Fulma)[https://mangelmaxime.github.io/Fulma/#fulma] are F# bindings for Bulma. Here is a simple example:
+
+```fsharp
+Tag.list
+    [ Tag.List.HasAddons ]
+    [ Tag.tag 
+        [ Tag.Color IsDanger ]
+        [ str "High priority" ]
+      Tag.delete [ ] [ ]
+    ]
+```
+
+which will result in this html and css:
+
+```html
+<div class="tags has-addons">
+    <span class="tag is-danger">High priority</span>
+    <span class="tag is-delete"></span>
+</div>
+```
+
 ## Please tell me more!
 
 Basically, there are two ways to get started with Fulma. The first one is to use the minimal template that is available, the second is to add it manually.
