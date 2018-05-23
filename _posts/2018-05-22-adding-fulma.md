@@ -68,7 +68,7 @@ After that, you need to update your `webpack.config.js` file.
 
 ```js
 //config entry
-resolve('./../MuggleFront/scss/main.scss')
+resolve('./../whateverthepathmaybe/scss/main.scss')
 
 // module rules
 {
