@@ -35,7 +35,7 @@ Using the template it really easy:
 ```
 
 I like easy, but I also like understanding what exactly I'm doing. So I added Fulma manually to an already existing project first.
-I highly recommend that you to this manually at least once. Although templates are fantastic things to have and I am very grateful they exist, they prevent you from banging your head against a desk to deeper insights into how Fulma works behind the scenes.
+I highly recommend that you do this manually at least once. Although templates are fantastic things to have and I am very grateful they exist, they prevent you from banging your head against a desk to deeper insights into how Fulma works behind the scenes.
 
 ## Installing Fulma in an existing project
 
