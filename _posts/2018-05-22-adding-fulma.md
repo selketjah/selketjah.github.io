@@ -25,7 +25,7 @@ I made a nice summary so I will never forget how to make the necessary evil in m
 
 ## So, what exactly is Fulma?!
 
-In order the understand what Fulma is, you first need to know (Bulma)[https://bulma.io/] is. Bulma is an open source CSS framework based on (Flexbox)[https://www.w3schools.com/csS/css3_flexbox.asp]. The Flexible Box Layout Module, makes it easier to design flexible responsive layout structure without using float or positioning. (Fulma)[https://mangelmaxime.github.io/Fulma/#fulma] are F# bindings for Bulma. Here is a simple example:
+In order the understand what Fulma is, you first need to know [Bulma](https://bulma.io/) is. Bulma is an open source CSS framework based on [Flexbox](https://www.w3schools.com/csS/css3_flexbox.asp). The Flexible Box Layout Module, makes it easier to design flexible responsive layout structure without using float or positioning. [Fulma](https://mangelmaxime.github.io/Fulma/#fulma) are F# bindings for Bulma. Here is a simple example:
 
 ```fsharp
 Tag.list
