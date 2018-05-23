@@ -37,7 +37,7 @@ Tag.list
     ]
 ```
 
-which will result in this html and css:
+which will result in this html with the correct class names added to it:
 
 ```html
 <div class="tags has-addons">
