@@ -653,7 +653,8 @@ span.cbp-biprev:before {
 }
 
 ul {
-    list-style: inside;
+    list-style: outside;
+    margin-left: 1rem;
 }
 
 /* Code */
@@ -702,7 +703,7 @@ blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
   color: #7a7a7a;
-  border-left: .25rem solid #e5e5e5;
+  border-left: .25rem solid #0697AE;
 }
 blockquote p:last-child {
   margin-bottom: 0;
