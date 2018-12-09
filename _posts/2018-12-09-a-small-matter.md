@@ -11,8 +11,6 @@ tags:
 
 > Hypothesis: "Any tool that lets a non-programmer build executable programs will eventually become sufficiently complicated that the user is effectively a programmer." I wonder if anyone has named this (or perhaps even proven)?
 
-Thread can be found [here](https://twitter.com/mathiasverraes/status/1037261350995718145).
-
 <!--more-->
 
 For me the most interesting part was chapter 6, Collaborative Work Practices, where they investigate how everybody works together and discuss the different layers of knowledge that a group of people can have.
@@ -26,7 +24,7 @@ There are a couple of ways that studies have classified the people involved in t
 It would be easy to try to rank the importance of these categories, but the book made it clear that all are equally important to make end user programs a success:
 > though we should make tailoring mechanisms more accessible to everyone, it is also important to make tailoring a "community nity effort" that draws on the varied expertise of different kinds of users. (loc. 1275-1276)
 
-### Here are my favorite quotes of the book
+### My favorite quotes
 
 > a carefully chosen set of task-specific operations that allow programming gramming within a particular set of tasks. (loc. 36)
 
@@ -185,6 +183,10 @@ It would be easy to try to rank the importance of these categories, but the book
 <br>
 
 > with the right tools, abolish the distinction between "end user" and "programmer." (loc. 1607)
+
+### Links
+
+* [Hypothesis](https://twitter.com/mathiasverraes/status/1037261350995718145).
 
 ----
 
