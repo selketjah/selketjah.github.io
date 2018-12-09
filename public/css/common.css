@@ -238,6 +238,7 @@ a.button:active
     position: relative;
     top: 1px;	
 }
+p{ padding-bottom: 0.5rem; }
 h1,h2,h3,h4,h5,h6
 {
     padding: 20px 0;
