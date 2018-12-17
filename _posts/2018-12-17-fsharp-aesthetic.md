@@ -23,9 +23,9 @@ That is what it should feel like when walking through your code: a strong sense 
 
 When you mention aesthetics, most people think about whether or not something is beautiful. But on a more abstract level, aesthetics is about offering a set of guidelines that will allow you to create beauty.
 
->  An underlying principle, a set of principles, or a view often manifested by outward appearances or style of behavior (free dictionary)[https://www.thefreedictionary.com/aesthetic]
+>  An underlying principle, a set of principles, or a view often manifested by outward appearances or style of behavior [free dictionary](https://www.thefreedictionary.com/aesthetic)
 
-> (noun) A set of principles underlying the work of a particular artist or artistic movement. (Oxford dictionary)[https://en.oxforddictionaries.com/definition/aesthetic]
+> (noun) A set of principles underlying the work of a particular artist or artistic movement. [Oxford dictionary](https://en.oxforddictionaries.com/definition/aesthetic)
     ‘the Cubist aesthetic’
 
 <br>
@@ -117,7 +117,7 @@ let example (name : string) (birth : DateTime) age city = () // D - grouped
 
 ```
 
-One of the cool things about F# is (type inference)[https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/type-inference]. Unfortunately, it is not infallible, sometimes conflicts occur and you need to specify your type. 
+One of the cool things about F# is [type inference](https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/type-inference). Unfortunately, it is not infallible, sometimes conflicts occur and you need to specify your type. 
 I try to group them and put the parameters with type annotation first.
 
 Principle #3: be consistent in your function signatures.
@@ -145,7 +145,7 @@ match moment with
 
 ```
 
-I try to avoid more than two lines in a (match expression)[https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/match-expressions]. I started doing this because of my match expressions in Elmish Fable. Your `update` function can run away easily from you there. Seeing how the readability of my code improved, I've extended this to my server-side code too.
+I try to avoid more than two lines in a [match expression](https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/match-expressions). I started doing this because of my match expressions in Elmish Fable. Your `update` function can run away easily from you there. Seeing how the readability of my code improved, I've extended this to my server-side code too.
 
 ```fsharp
 let skipOrGive behavior =
@@ -161,7 +161,7 @@ let skipOrGive behavior =
 
 Client side I create `private` functions to keep my `update` function as compact as possible, but server side I just make subfunctions in my top level function, as shown in the example above.
 
-(J.B. Rainsberger)[https://twitter.com/jbrains] talks about creating black boxes of code. And if you open the black box, you find more black boxes, and so on and so on. All the way down. I like that analogy, so:
+[J.B. Rainsberger](https://twitter.com/jbrains) talks about creating black boxes of code. And if you open the black box, you find more black boxes, and so on and so on. All the way down. I like that analogy, so:
 
 Principle #4: create tiny black boxes of code.
 
@@ -183,6 +183,6 @@ So, this is my last principle: no robotic naming.
 Software developers like to pretend that there is this objective way to write and judge code aesthetics, but there isn't. A tab or a space often turns into a quibble...
 I guess that is why it took me so long to write this blogpost... I don't want this to turn into a quible. I mean, how could I be sure that my set of principles actually made any sense?
 
-I was lucky, I got the confirmation I was looking for a while back when I looked at the proposition of the (F# guidelines)[https://docs.microsoft.com/en-us/dotnet/fsharp/style-guide/] and I discovered that the way I thought about code aesthetics, matched the draft version of the guidelines pretty closely.
+I was lucky, I got the confirmation I was looking for a while back when I looked at the proposition of the [F# guidelines](https://docs.microsoft.com/en-us/dotnet/fsharp/style-guide/) and I discovered that the way I thought about code aesthetics, matched the draft version of the guidelines pretty closely.
 
 Maybe yours don't. That is fine too. Whether or not you adapt them, It doesn't really matter. In the end there is really only one principle you need to remember: your code has to feel like walking through a Gothic Catholic church. Predictability and harmony, 99% of the time, 1% deviation.
