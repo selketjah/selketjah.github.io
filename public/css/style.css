@@ -5,17 +5,10 @@ html
 
 body
 {
-    font-family: 'Libre Baskerville',sans-serif, Arial;;
-    font-size: 1.1rem; 	
-    line-height: 1.4rem;	
-    letter-spacing: -1px;
+    font-family: 'Times New Roman',sans-serif, Arial;;
+    font-size: 1.3rem; 	
     color: #404040;
     background-color: #fff;
-}
-
-.montserrat
-{
-    font-family: 'Montserrat', sans-serif, Arial;
 }
 
 body a

@@ -41,6 +41,7 @@ So, make your code symmetrical:
 * anything with more than 2 elements, goes on separate lines
 * spaces before and after symbols (f.e. `:`, `*`, `+`, `;`)
 
+
 ```fsharp
 type Behavior = Naughty | Nice // Don't write the first |
 
