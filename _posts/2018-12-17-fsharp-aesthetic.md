@@ -34,7 +34,7 @@ We stare at our code all day long, yet we seem to care so very little about what
 
 ### Whatever is on the left ...
 
-... must be on the right. In general, the more symmetry something has, the more we beautiful we find it.
+... must be on the right. In general, the more symmetry something has, the more beautiful we find it.
 So, make your code symmetrical:
 
 * anything with 2 or less elements, goes on one line
