@@ -44,7 +44,7 @@ Add `fable-compiler` and `npx` and upgrade `fable-loader` to the latest version.
 
 ### Update paket
 
-Remove 'clitool dotnet-fable' from your paket.dependencies and paket.references
+Remove `clitool dotnet-fable` from your paket.dependencies and paket.references
 
 ### Update build scripts
 
