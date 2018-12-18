@@ -24,22 +24,22 @@ But then I remembered something from Twitter: there were plans to eliminate the 
 
 ### Update yarn
 
-Add 'fable-compiler' and 'npx' and upgrade 'fable-loader' to the latest version.
+Add `fable-compiler` and `npx` and upgrade `fable-loader` to the latest version.
 
 ```
-yarn add fable-compiler --dev
-yarn add npx --dev
-yarn upgrade fable-loader@latest
+> yarn add fable-compiler --dev
+> yarn add npx --dev
+> yarn upgrade fable-loader@latest
 
 ```
 
 ### packages.json
 
-| Old        | New           | 
-| ------------- |:-------------:|
-| "fable-loader": "^2.0.0" | "fable-loader": "^2.1.2" |
+| Old                      | New                        | 
+| -------------------------|:--------------------------:|
+| "fable-loader": "^2.0.0" | "fable-loader": "^2.1.2"   |
 | -                        | "fable-compiler": "^2.1.8" |
-| -                        | "npx": "^10.2.0" |
+| -                        | "npx": "^10.2.0"           |
 
 
 ### Update paket
