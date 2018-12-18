@@ -10,7 +10,7 @@ tags:
 
 This morning one of my colleagues ran into a weird error when trying to build one of our web applications with Fable:
 
-> ERROR in ./src/*/*/*/*.fsproj
+> ERROR in ./src/path/to/your/Client.fsproj
 Module build failed (from ./node_modules/fable-loader/index.js):
 Error: Cannot find module 'fable-compiler'
 
@@ -24,7 +24,7 @@ But then I remembered something from Twitter: there were plans to eliminate the 
 
 ### Update yarn
 
-Add ´fable-compiler´ and ´npx´ and upgrade ´fable-loader´ to the latest version.
+Add 'fable-compiler' and 'npx' and upgrade 'fable-loader' to the latest version.
 
 ```
 yarn add fable-compiler --dev
@@ -33,9 +33,18 @@ yarn upgrade fable-loader@latest
 
 ```
 
+### packages.json
+
+| Old        | Nez           | 
+| ------------- |:-------------:|
+| "fable-loader": "^2.0.0" | "fable-loader": "^2.1.2" |
+| - | "fable-compiler": "^2.1.8" |
+| - | "npx": "^10.2.0" |
+
+
 ### Update paket
 
-Remove ´clitool dotnet-fable´ from your paket.dependencies and paket.references
+Remove 'clitool dotnet-fable' from your paket.dependencies and paket.references
 
 ### Update build scripts
 
