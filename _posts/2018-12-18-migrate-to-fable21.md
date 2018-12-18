@@ -35,11 +35,11 @@ yarn upgrade fable-loader@latest
 
 ### packages.json
 
-| Old        | Nez           | 
+| Old        | New           | 
 | ------------- |:-------------:|
 | "fable-loader": "^2.0.0" | "fable-loader": "^2.1.2" |
-| - | "fable-compiler": "^2.1.8" |
-| - | "npx": "^10.2.0" |
+| -                        | "fable-compiler": "^2.1.8" |
+| -                        | "npx": "^10.2.0" |
 
 
 ### Update paket
