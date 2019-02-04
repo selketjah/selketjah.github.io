@@ -8,7 +8,7 @@ tags:
 ---
 
 Humans vs Computers, the first book I read in 2019 and it was an excellent choice!
-This book is a collection of (horror) stories about software failures. There are 4 themes in the book:
+This book is a collection of (horror) stories about software design failures. There are 4 themes in the book:
 * Names
 * Addresses
 * Numbers
