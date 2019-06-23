@@ -7,9 +7,11 @@ tags:
 - books
 ---
 
-`A Philosophy of software design` looks at the creation of software through the lens of avoiding complexity in your system.
+Since I mentioned this book during [my interview](https://developeronfire.com/podcast/episode-421-gien-verschatse-choosing-your-way) with [Dave Rael](https://twitter.com/raelyard) for the podcast [Developer on fire](https://developeronfire.com/), I thought it was time to put my favorite quotes of the book online.
+
+`A Philosophy of software design` looks at the creation of software through the lens of complexity in your system.
 This book is very small, only 200 pages, so don't expect an in depth explanation of every topic in it. 
-This book covers the basics of a certain topic and it is up to you to venture out and find a more in-depth book about one of the topics in it.
+It covers the basics of every topic and it is up to you to venture out and find a more in-depth book about one of the topics in it.
 
 > The most fundamental problem in computer science is problem decomposition: how to take a complex problem and divide it up into pieces that can be solved independently. (Location 198)
 
