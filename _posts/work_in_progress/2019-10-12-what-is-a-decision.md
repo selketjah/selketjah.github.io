@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A brief introduction into decisions
+title: Decisions: A brief introduction
 category: decision theory
 date: October 12, 2020
 tags:
@@ -11,7 +11,7 @@ The word `decision` pops up very often in our day to day conversations, and that
 
 * I can't believe they are moving in together, that is just a nightmare waiting to happen...
 * You should ask your brother to go with when buying your car, he bought a really good one himself.
-
+* ...
 
 The sad thing is that most of us never really learn anything about making decisions. <!--more--> So a few years ago, when a friend onf mine told me that they actually taught this in certain courses
 
@@ -40,22 +40,31 @@ Decision:
 a choice between two or more alternatives that involves an irrevocable allocation of resources.
 ```
 
-
-
-There are a couple of key concepts here: `two or more alternatives` and `irrevocable allocation of resources`. But what exactly do those two mean?
+Although the definitions seem very different at first glance, they do have a couple of key concepts in common.
 
 ### Alternatives
+
+To start with, the concept of `multiple things are available for the same thing`. Whether it is called an `options`, a `possibilities` or an `alternatives`, they all try to express the same concept:
+
+a path that will lead to a different outcome. Or to use the definition of the textbook:
+
+```
+available courses of action that the person believes would lead to different futures.
+```
+
 
 
 ### Resources
 
-
+And secondly, you have to boil them down to one.
 
 ## A decision can be ...
 
 ... Easy or hard
 
 
+What makes a decision easy or hard is how well informed you feel about the decision you have to make.
+Picking your ice cream flavor can be labelled as an easy decision. 
 
 ... Reactive or proactive
 
@@ -67,3 +76,6 @@ There are a couple of key concepts here: `two or more alternatives` and `irrevoc
 Resources definitions of decision:
 * Abbas, Ali E.; Howard, Ronald A.. Foundations of Decision Analysis, Global Edition (Page 30). Kindle Edition.
 * https://dictionary.cambridge.org/dictionary/english/decision
+
+Resource definition of alternatives:
+* Abbas, Ali E.; Howard, Ronald A.. Foundations of Decision Analysis, Global Edition (Page 37). Kindle Edition.
