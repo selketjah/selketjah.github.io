@@ -44,7 +44,7 @@ Although the definitions seem very different at first glance, they do have a cou
 
 ### Alternatives
 
-To start with, the concept of `multiple things are available for the same thing`. Whether it is called an `options`, a `possibilities` or an `alternatives`, they all try to express the same concept:
+To start with, the concept of `multiple things you can select from are available for the same decision`. Whether it is called an `option`, a `possibility` or an `alternative`, they all try to express the same concept:
 
 a path that will lead to a different outcome. Or to use the definition of the textbook:
 
