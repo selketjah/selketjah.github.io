@@ -64,12 +64,12 @@ This is important to determine whether or not a person has made a decision. Thin
 
 ## A decision can be ...
 
-* Easy or hard
+### Easy or hard
 
 What makes a decision easy or hard is how well informed you feel about the decision you have to make.
 Picking your ice cream flavor can be labelled as an easy decision. 
 
-* Reactive or proactive
+### Reactive or proactive
 
 When you have to make a decision, there are two ways you could have reached this point:
 1. Something happened and now you have to make a decision.
@@ -88,7 +88,7 @@ For example:
 
 It might not seem important to know what kind of decision you are making, but it is. Think about our first reactive example. Getting fired is something which will trigger different kind of emotions than when you just want to get a new job. So the way you look at all the options available to you will be influenced, consciously or unconsciously by these emotions. The time you can spend to make the decision will also be different. So even though it might not seem important, it has a big impact on the decision and its process.
 
-* Good or bad
+### Good or bad
 
 A decision can be either good or bad, there is not much to it.
 Don't confuse this with `a decision has a good or bad outcome`. The quality of the decision and the outcome of that decision are things that need to be separated.
