@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Decisions: A brief introduction
+title: Decisions, Decisions, Decisions [Part I, What's a decision anyway?]
 category: decision theory
 date: October 12, 2020
 tags:
@@ -25,11 +25,12 @@ If I had to explain a decision to someone unfamiliar with the concept, this is w
 You have to do something, and there a few options you could pick to do it and you need to pick just one of them.
 ```
 
-Whether it is the best definition ever is debatable, but I think most of us would agree it is a good attempt to explain what a decision is. So what do other (more official) sources say about it?
+Whether it is the best definition ever is debatable, but I think most of us would agree it is a good attempt to explain what a decision is. So how do other (more official) sources explain it?
 
 According to [Cambridge dictionary](https://dictionary.cambridge.org/dictionary/english/decision), a decision is:
 
 ```
+Decision:
 a choice that you make about something after thinking about several possibilities.
 ```
 
@@ -44,19 +45,23 @@ Although the definitions seem very different at first glance, they do have a cou
 
 ### Alternatives
 
-To start with, the concept of `multiple things you can select from are available for the same decision`. Whether it is called an `option`, a `possibility` or an `alternative`, they all try to express the same concept:
-
-a path that will lead to a different outcome. Or to use the definition of the textbook:
+To start with, the concept of `things you can select from` can be found in all three of the definitions. Whether it is called an `option`, a `possibility` or an `alternative`, they all try to express the same idea: there are multiple things available that you can choose from, or to use the definition of the textbook:
 
 ```
-available courses of action that the person believes would lead to different futures.
+Alternatives/Options are available courses of action that the person believes would lead to different futures.
 ```
 
+An option is defined here as something that will lead to a different future, which makes a lot of sense. If all your options have the same outcome, it doesn't matter which one you pick. When it doesn't matter which one you pick, you don't have a decision to make.
 
+All three also give an indication that you have to boil the options down to one.
+So, this implies that there is always more than one option available. This is true when you think about it in this way: not making a decision is always an option.
+(We will get more into this in part II, making quality decisions)
 
-### Resources
+### Irrevocable allocation of resources
 
-And secondly, you have to boil them down to one.
+The second part of the definition talks about `irrevocable allocation of resources`. What this means is that there is a cost in being wrong. Undoing your decision will cost to lose time, money or energy.
+This is important to determine whether or not a person has made a decision. Think back on all those New Years resolutions... All those to-do's made on the first day of the year and most of them will never even start with the resolution. Declaring that you have made a decision is cheap, in order to actually make one, you need to put your money, euh, I mean resource, where your mouth is!
+
 
 ## A decision can be ...
 
