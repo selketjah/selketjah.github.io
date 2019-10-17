@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Decisions, Decisions, Decisions [Part I, What's a decision anyway?]
+title: Decisions Part I [ What's a decision anyway? ]
 category: decision theory
 date: October 12, 2020
 tags:
