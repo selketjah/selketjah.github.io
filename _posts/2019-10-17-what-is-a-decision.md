@@ -64,22 +64,27 @@ This is important to determine whether or not a person has made a decision. Thin
 
 ## A decision can be ...
 
+Decisions can be classified according to a variety of characteristics. By categorising your decisions according to the following 3 categories, you will be able to make better decisions over time and it will help you to look more objectively to the decision that you make.
+
 ### Easy or hard
 
 What makes a decision easy or hard is how well informed you feel about the decision you have to make.
-Picking your ice cream flavor can be labelled as an easy decision. 
+Picking your ice cream flavor can be labelled as an easy decision. Whether or not you want to invest money in a start-up is already a lot harder. Why is that?
+
+Because the knowledge readily available for those two decisions is very different. I don't have any knowledge that will help me assess whether or not a start-up is worth investing in, and most people don't have that either. There is a lot of `uncertainty` involved here. Uncertainty and the difficulty of a decision are intertwined with one another. In order to make a decision easier, you need to gain more information or get the right information. That way the uncertainty goes down, and the decision is easier to make than it was before.
 
 ### Reactive or proactive
 
 When you have to make a decision, there are two ways you could have reached this point:
-1. Something happened and now you have to make a decision.
+
+- Something happened and now you have to make a decision.
 
 This is called a reactive decision, because you are reacting to an event.
 Couple of examples:
 * You got fired and now you need a new job.
 * Your house stops being for rent, and now you need a new place to live.
 
-2. You want something, so you are going to make a decision.
+- You want something, so you are going to make a decision.
 
 You want something to change, so you take charge and try to change it. You are being proactive, so the decision is a proactive decision.
 For example:
