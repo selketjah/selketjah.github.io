@@ -54,8 +54,7 @@ Alternatives/Options are available courses of action that the person believes wo
 An option is defined here as something that will lead to a different future, which makes a lot of sense. If all your options have the same outcome, it doesn't matter which one you pick. When it doesn't matter which one you pick, you don't have a decision to make.
 
 All three also give an indication that you have to boil the options down to one.
-So, this implies that there is always more than one option available. This is true when you think about it in this way: not making a decision is always an option.
-(We will get more into this in part II, making quality decisions)
+So, this implies that there is always more than one option available. This is true when you think about it in this way: not making a decision is always an option. We will get more into this in part II, making quality decisions
 
 ### Irrevocable allocation of resources
 
@@ -65,16 +64,37 @@ This is important to determine whether or not a person has made a decision. Thin
 
 ## A decision can be ...
 
-... Easy or hard
-
+* Easy or hard
 
 What makes a decision easy or hard is how well informed you feel about the decision you have to make.
 Picking your ice cream flavor can be labelled as an easy decision. 
 
-... Reactive or proactive
+* Reactive or proactive
 
-... good or bad
+When you have to make a decision, there are two ways you could have reached this point:
+1. Something happened and now you have to make a decision.
 
+This is called a reactive decision, because you are reacting to an event.
+Couple of examples:
+* You got fired and now you need a new job.
+* Your house stops being for rent, and now you need a new place to live.
+
+2. You want something, so you are going to make a decision.
+
+You want something to change, so you take charge and try to change it. You are being proactive, so the decision is a proactive decision.
+For example:
+* you are starting to loose interest at work, so you want a new job.
+* your rent is getting too high, so you want a new living space. 
+
+It might not seem important to know what kind of decision you are making, but it is. Think about our first reactive example. Getting fired is something which will trigger different kind of emotions than when you just want to get a new job. So the way you look at all the options available to you will be influenced, consciously or unconsciously by these emotions. The time you can spend to make the decision will also be different. So even though it might not seem important, it has a big impact on the decision and its process.
+
+* Good or bad
+
+A decision can be either good or bad, there is not much to it.
+Don't confuse this with `a decision has a good or bad outcome`. The quality of the decision and the outcome of that decision are things that need to be separated.
+But this is worth a blogpost all on its own...
+
+So stay tuned for part II, the elements of a decision and part III decision and their outcome!
 
 -------------
 
