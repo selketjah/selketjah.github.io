@@ -21,25 +21,23 @@ Let's start by trying to answer a very basic question: what exactly is a decisio
 
 If I had to explain a decision to someone unfamiliar with the concept, this is what I would say:
 
-```
-You have to do something, and there a few options you could pick to do it and you need to pick just one of them.
-```
+> You have to do something, and there a few options you could pick to do it and you need to pick just one of them.
 
-Whether it is the best definition ever is debatable, but I think most of us would agree it is a good attempt to explain what a decision is. So how do other (more official) sources explain it?
+It is not easy to come up with a good description of a concept. Before you read on, I dare you to try and come up with a better explanation for a decision. Go ahead, I will wait.
+
+Not that easy, right?
+But luckily for us, we don't have to come up with them all by ourselves, other people have done that for us. Lets have a look how official sources explain it!
 
 According to [Cambridge dictionary](https://dictionary.cambridge.org/dictionary/english/decision), a decision is:
 
-```
-Decision:
-a choice that you make about something after thinking about several possibilities.
-```
+> Decision:
+> a choice that you make about something after thinking about several possibilities.
 
 and here is another one, from the texbook [Foundations of Decision Analysis](https://www.amazon.com/Foundations-Decision-Analysis-Ronald-Howard/dp/0132336243/ref=sr_1_1?crid=3BHQUJF5YW9PC&keywords=foundations+of+decision+analysis&qid=1570889458&s=books&sprefix=foundations+of+deci%2Caps%2C234&sr=1-1):
 
-```
-Decision:
-a choice between two or more alternatives that involves an irrevocable allocation of resources.
-```
+
+> Decision:
+> a choice between two or more alternatives that involves an irrevocable allocation of resources.
 
 Although the definitions seem very different at first glance, they do have a couple of key concepts in common.
 
@@ -77,14 +75,14 @@ Because the knowledge readily available for those two decisions is very differen
 
 When you have to make a decision, there are two ways you could have reached this point:
 
-- Something happened and now you have to make a decision.
+`Something happened and now you have to make a decision.`
 
 This is called a reactive decision, because you are reacting to an event.
 Couple of examples:
 * You got fired and now you need a new job.
 * Your house stops being for rent, and now you need a new place to live.
 
-- You want something, so you are going to make a decision.
+`You want something, so you are going to make a decision.`
 
 You want something to change, so you take charge and try to change it. You are being proactive, so the decision is a proactive decision.
 For example:
