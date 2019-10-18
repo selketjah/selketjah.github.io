@@ -95,6 +95,7 @@ A decision can be either good or bad, there is not much to it.
 Don't confuse this with `a decision has a good or bad outcome`. The quality of the decision and the outcome of that decision are things that are not tightly coupled. A good decision can have a bad outcome, and a bad decision can still have a good outcome. 
 I will talk about this more in a different part of the decision series.
 
+## Conclusion
 
 It is time to go back to our original question: `What is a decision?`. 
 A decision is not a thing, but a process you have to go through. In that process you choose one option from multiple options that will give you a different outcome and there has a cost in being wrong.
