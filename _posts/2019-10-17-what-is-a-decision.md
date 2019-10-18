@@ -13,7 +13,7 @@ The word `decision` pops up very often in our day to day conversations, and that
 * You should ask your brother to go with when buying your car, he bought a really good one himself.
 * ...
 
-The sad thing is that most of us never really learn anything about making decisions. <!--more--> So a few years ago, when a friend onf mine told me that they actually taught this in certain courses, I wanted to sign up right away! Unfortunately for me, that wasn't really possible, so I did the next best thing. I started reading books, watch talks and have long discussions on the topic and I came to realise that this information is worth sharing. Having this knowledge makes me look at software in a completely different way. I finally have a framework to think about making a decision and I want to share that with you. So...
+The sad thing is that most of us never really learn anything about making decisions. <!--more--> So a few years ago, when a friend onf mine told me that they actually taught this in certain courses, I wanted to sign up right away! Unfortunately for me, that wasn't really possible, so I did the next best thing. I started reading books, watch talks and have long discussions on the topic, and I came to realise that this information is worth sharing. Having this knowledge makes me look at software in a completely different way. I finally have a framework to think about making a decision and I want to share that with you. So...
 
 Let's start by trying to answer a very basic question: what exactly is a decision?
 
@@ -26,7 +26,7 @@ If I had to explain a decision to someone unfamiliar with the concept, this is w
 It is not easy to come up with a good description of a concept. Before you read on, I dare you to try and come up with a better explanation for a decision. Go ahead, I will wait.
 
 Not that easy, right?
-But luckily for us, we don't have to come up with them all by ourselves, other people have done that for us. Lets have a look how official sources explain it!
+But luckily for us, we don't have to come up with them all by ourselves, other people have done that for us. Let's have a look how official sources explain it!
 
 According to [Cambridge dictionary](https://dictionary.cambridge.org/dictionary/english/decision), a decision is:
 
@@ -55,7 +55,7 @@ So, this implies that there is always more than one option available. This is tr
 ### Irrevocable allocation of resources
 
 The second part of the definition talks about `irrevocable allocation of resources`. What this means is that there is a cost in being wrong. Undoing your decision will cost to lose time, money or energy.
-This is important to determine whether or not a person has made a decision. Think back on all those New Years resolutions... All those to-do's made on the first day of the year and most of them will never even start with the resolution. Declaring that you have made a decision is cheap, in order to actually make one, you need to put your money, euh, I mean resource, where your mouth is!
+This is important to determine whether or not a person has made a decision. Think back on all those New Years resolutions... All those to-dos made on the first day of the year and most of them will never even start with the resolution. Declaring that you have made a decision is cheap, in order to actually make one, you need to put your money, euh, I mean resource, where your mouth is!
 
 
 ## A decision can be ...
@@ -84,10 +84,10 @@ When you have to make a decision, there are two ways you could have reached this
 
    You want something to change, so you take charge and try to change it. You are being proactive, so the decision is a proactive decision.
    For example:
-   * you are starting to loose interest at work, so you want a new job.
+   * you are starting to lose interest at work, so you want a new job.
    * your rent is getting too high, so you want a new living space. 
 
-It might not seem important to know what kind of decision you are making, but it is. Think about our first reactive example. Getting fired is something which will trigger different kind of emotions than when you just want to get a new job. So the way you look at all the options available to you will be influenced, consciously or unconsciously by these emotions. The time you can spend to make the decision will also be different. So even though it might not seem important, it has a big impact on the decision and its process.
+It might not seem important to know what kind of decision you are making, but it is. Think about our first reactive example. Getting fired is something which will trigger different kind of emotions than when you just want to get a new job. So, the way you look at all the options available to you will be influenced, consciously or unconsciously by these emotions. The time you can spend to make the decision will also be different. So even though it might not seem important, it has a big impact on the decision and its process.
 
 ### Good or bad
 
@@ -97,7 +97,7 @@ I will talk about this more in a different part of the decision series.
 
 ## Conclusion
 
-It is time to go back to our original question: `What is a decision?`. 
+It is time to go back to our original question: `What is a decision?`
 A decision is not a thing, but a process you have to go through. In that process you choose one option from multiple options that will give you a different outcome and there has a cost in being wrong.
 `You want to avoid paying this cost, you want to make good decisions.` In order to make good decisions, you need to understand the elements that need to be present when making a decision. In my next blogpost I will walk you through all these elements!
 
