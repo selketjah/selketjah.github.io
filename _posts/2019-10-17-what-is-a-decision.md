@@ -45,9 +45,7 @@ Although the definitions seem very different at first glance, they do have a cou
 
 To start with, the concept of `things you can select from` can be found in all three of the definitions. Whether it is called an `option`, a `possibility` or an `alternative`, they all try to express the same idea: there are multiple things available that you can choose from, or to use the definition of the textbook:
 
-```
-Alternatives/Options are available courses of action that the person believes would lead to different futures.
-```
+> Alternatives/Options are available courses of action that the person believes would lead to different futures.
 
 An option is defined here as something that will lead to a different future, which makes a lot of sense. If all your options have the same outcome, it doesn't matter which one you pick. When it doesn't matter which one you pick, you don't have a decision to make.
 
@@ -94,10 +92,13 @@ It might not seem important to know what kind of decision you are making, but it
 ### Good or bad
 
 A decision can be either good or bad, there is not much to it.
-Don't confuse this with `a decision has a good or bad outcome`. The quality of the decision and the outcome of that decision are things that need to be separated.
-But this is worth a blogpost all on its own...
+Don't confuse this with `a decision has a good or bad outcome`. The quality of the decision and the outcome of that decision are things that are not tightly coupled. A good decision can have a bad outcome, and a bad decision can still have a good outcome. 
+I will talk about this more in a different part of the decision series.
 
-So stay tuned for part II, the elements of a decision and part III decision and their outcome!
+
+It is time to go back to our original question: `What is a decision?`. 
+A decision is not a thing, but a process you have to go through. In that process you choose one option from multiple options that will give you a different outcome and there has a cost in being wrong.
+You want to avoid paying this cost, so you want good decisions. In order to make good decisions, you need to understand the elements that need to be present when making a decision. In my next blogpost I will walk you through all these elements!
 
 -------------
 
