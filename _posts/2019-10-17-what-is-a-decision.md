@@ -7,13 +7,13 @@ tags:
 - decision
 ---
 
-The word `decision` pops up very often in our day to day conversations, and that is not that surprising. Decisions form a very central role in our lives: we can easily sum up someones life by telling the sequence of decisions they made throughout it. We judge ourselves and other people by the decisions that we make:
+The word `decision` pops up very often in our day to day conversations, and it is not that surprising. Decisions form a very central role in our lives: we can sum up someone's life by telling the sequence of decisions they made throughout it. We judge ourselves and other people by the decisions that we make:
 
 * I can't believe they are moving in together, that is just a nightmare waiting to happen...
 * You should ask your brother to go with when buying your car, he bought a really good one himself.
 * ...
 
-The sad thing is that most of us never really learn anything about making decisions. <!--more--> So a few years ago, when a friend onf mine told me that they actually taught this in certain courses, I wanted to sign up right away! Unfortunately for me, that wasn't really possible, so I did the next best thing. I started reading books, watch talks and have long discussions on the topic, and I came to realise that this information is worth sharing. Having this knowledge makes me look at software in a completely different way. I finally have a framework to think about making a decision and I want to share that with you. So...
+The sad thing is that most of us never really learn anything about making decisions. <!--more--> So a few years ago, when a friend of mine told me that they actually taught this in certain courses, I wanted to sign up right away! Unfortunately for me, that wasn't really possible, so I did the next best thing. I started reading books, watching talks and having long discussions on the topic, and I came to realize that this information is worth sharing. Having this knowledge makes me look at software in a completely different way. I finally have a framework to think about making a decision and I want to share that with you. So...
 
 Let's start by trying to answer a very basic question: what exactly is a decision?
 
@@ -33,7 +33,7 @@ According to [Cambridge dictionary](https://dictionary.cambridge.org/dictionary/
 > Decision:
 > a choice that you make about something after thinking about several possibilities.
 
-and here is another one, from the texbook [Foundations of Decision Analysis](https://www.amazon.com/Foundations-Decision-Analysis-Ronald-Howard/dp/0132336243/ref=sr_1_1?crid=3BHQUJF5YW9PC&keywords=foundations+of+decision+analysis&qid=1570889458&s=books&sprefix=foundations+of+deci%2Caps%2C234&sr=1-1):
+and here is another one, from the textbook [Foundations of Decision Analysis](https://www.amazon.com/Foundations-Decision-Analysis-Ronald-Howard/dp/0132336243/ref=sr_1_1?crid=3BHQUJF5YW9PC&keywords=foundations+of+decision+analysis&qid=1570889458&s=books&sprefix=foundations+of+deci%2Caps%2C234&sr=1-1):
 
 
 > Decision:
@@ -55,7 +55,7 @@ So, this implies that there is always more than one option available. This is tr
 ### Irrevocable allocation of resources
 
 The second part of the definition talks about `irrevocable allocation of resources`. What this means is that there is a cost in being wrong. Undoing your decision will cost to lose time, money or energy.
-This is important to determine whether or not a person has made a decision. Think back on all those New Years resolutions... All those to-dos made on the first day of the year and most of them will never even start with the resolution. Declaring that you have made a decision is cheap, in order to actually make one, you need to put your money, euh, I mean resource, where your mouth is!
+This is important to determine whether or not a person has made a decision. Think back on all those New Year's resolutions... All those to-dos made on the first day of the year and most of them will never even start with the resolution. Declaring that you have made a decision is cheap, in order to actually make one, you need to put your money, euh, I mean resource, where your mouth is!
 
 
 ## A decision can be ...
