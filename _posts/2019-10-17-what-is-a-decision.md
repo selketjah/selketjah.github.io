@@ -23,7 +23,7 @@ If I had to explain a decision to someone unfamiliar with the concept, this is w
 
 > You have to do something, and there a few options you could pick to do it and you need to pick just one of them.
 
-It is not easy to come up with a good description of a concept. Before you read on, I dare you to try and come up with a better explanation for a decision. Go ahead, I will wait.
+It is not easy to come up with a good description of a concept. Before you read on, it would be fun to try and come up with a better explanation for a decision yourself.
 
 Not that easy, right?
 But luckily for us, we don't have to come up with them all by ourselves, other people have done that for us. Let's have a look how official sources explain it!
@@ -54,8 +54,9 @@ So, this implies that there is always more than one option available. This is tr
 
 ### Irrevocable allocation of resources
 
-The second part of the definition talks about `irrevocable allocation of resources`. What this means is that there is a cost in being wrong. Undoing your decision will cost to lose time, money or energy.
-This is important to determine whether or not a person has made a decision. Think back on all those New Year's resolutions... All those to-dos made on the first day of the year and most of them will never even start with the resolution. Declaring that you have made a decision is cheap, in order to actually make one, you need to put your money, euh, I mean resource, where your mouth is!
+The second part of the definition talks about `irrevocable allocation of resources`. What this means is that there is a cost in being wrong. Undoing your decision will cost a loss of time, money or energy. This is important to determine whether or not a person has made a decision.
+
+Think back on all those New Year's resolutions... All those to-dos made on the first day of the year and most of them will never even start with the resolution. Declaring that you have made a decision is cheap, in order to actually make one, you need to put your money, euh, I mean resource, where your mouth is!
 
 
 ## A decision can be ...
@@ -67,7 +68,9 @@ Decisions can be classified according to a variety of characteristics. By catego
 What makes a decision easy or hard is how well informed you feel about the decision you have to make.
 Picking your ice cream flavor can be labelled as an easy decision. Whether or not you want to invest money in a start-up is already a lot harder. Why is that?
 
-Because the knowledge readily available for those two decisions is very different. I don't have any knowledge that will help me assess whether or not a start-up is worth investing in, and most people don't have that either. There is a lot of `uncertainty` involved here. Uncertainty and the difficulty of a decision are intertwined with one another. In order to make a decision easier, you need to gain more information or get the right information. That way the uncertainty goes down, and the decision is easier to make than it was before.
+Because the knowledge readily available for those two decisions is very different. I don't have any knowledge that will help me assess whether or not a start-up is worth investing in, and most people don't have that either. There is a lot of `uncertainty` involved here.
+
+Uncertainty and the difficulty of a decision are intertwined with one another. In order to make a decision easier, you need to gain more information or get the right information. That way the uncertainty goes down, and the decision is easier to make than it was before.
 
 ### Reactive or proactive
 
