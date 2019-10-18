@@ -98,7 +98,7 @@ I will talk about this more in a different part of the decision series.
 
 It is time to go back to our original question: `What is a decision?`. 
 A decision is not a thing, but a process you have to go through. In that process you choose one option from multiple options that will give you a different outcome and there has a cost in being wrong.
-You want to avoid paying this cost, so you want good decisions. In order to make good decisions, you need to understand the elements that need to be present when making a decision. In my next blogpost I will walk you through all these elements!
+`You want to avoid paying this cost, you want to make good decisions.` In order to make good decisions, you need to understand the elements that need to be present when making a decision. In my next blogpost I will walk you through all these elements!
 
 -------------
 
