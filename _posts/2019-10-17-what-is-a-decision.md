@@ -21,7 +21,7 @@ Let's start by trying to answer a very basic question: what exactly is a decisio
 
 If I had to explain a decision to someone unfamiliar with the concept, this is what I would say:
 
-> You have to do something, and there a few options you could pick to do it and you need to pick just one of them.
+> You have to do something, and there a few options you could pick from to do it and you need to pick just one of them.
 
 It is not easy to come up with a good description of a concept. Before you read on, it would be fun to try and come up with a better explanation for a decision yourself.
 
