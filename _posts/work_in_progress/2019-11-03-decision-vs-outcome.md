@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Decisions and their outcome
+title: Decisions Part III - decisions and their outcome
 category: decision theory
-date: March 4, 2019
+date: November 3, 2019
 tags:
 - decision
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Decisions Part I - What's a decision anyway?
 category: decision theory
-date: October 12, 2020
+date: October 17, 2019
 tags:
 - decision
 ---
@@ -50,7 +50,7 @@ To start with, the concept of `things you can select from` can be found in all t
 An option is defined here as something that will lead to a different future, which makes a lot of sense. If all your options have the same outcome, it doesn't matter which one you pick. When it doesn't matter which one you pick, you don't have a decision to make.
 
 All three also give an indication that you have to boil the options down to one.
-So, this implies that there is always more than one option available. This is true when you think about it in this way: not making a decision is always an option. We will get more into this in part II, making quality decisions
+So, this implies that there is always more than one option available. This is true when you think about it in this way: not making a decision, is a decision. We will get more into this in part II, making quality decisions
 
 ### Irrevocable allocation of resources
 
