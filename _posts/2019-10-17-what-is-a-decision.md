@@ -120,5 +120,5 @@ Resources definitions of decision:
 Resource definition of alternatives:
 * Abbas, Ali E.; Howard, Ronald A.. Foundations of Decision Analysis, Global Edition (Page 37). Kindle Edition.
 
-Updated log:
-* 10-01-2020 - add concious couse of action to definition
+Update log:
+* 10-01-2020 - add conscious course of action to definition
