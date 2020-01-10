@@ -58,6 +58,12 @@ The second part of the definition talks about `irrevocable allocation of resourc
 
 Think back on all those New Year's resolutions... All those to-dos made on the first day of the year and most of them will never even start with the resolution. Declaring that you have made a decision is cheap, in order to actually make one, you need to put your money, euh, I mean resource, where your mouth is!
 
+### What is missing?
+
+One thing that is missing from previous definitions is the fact that a decision is something you do delibrate. [David C. Skinner](https://www.amazon.com/Introduction-Decision-Analysis-David-Skinner/dp/0964793865/ref=sr_1_1?keywords=david+c+skinner&qid=1578651041&sr=8-1) describes a decision as:
+> a conscious course of action and allocation of resources to achieve a set of objectives.
+
+So a decision is something you do consciously, which is in contrast to involuntary actions.
 
 ## A decision can be ...
 
@@ -112,3 +118,6 @@ Resources definitions of decision:
 
 Resource definition of alternatives:
 * Abbas, Ali E.; Howard, Ronald A.. Foundations of Decision Analysis, Global Edition (Page 37). Kindle Edition.
+
+Updated log:
+* 10-01-2020 - add concious couse of action to definition
