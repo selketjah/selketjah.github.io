@@ -114,6 +114,7 @@ A decision is not a thing, but a process you have to go through. In that process
 
 Resources definitions of decision:
 * Abbas, Ali E.; Howard, Ronald A.. Foundations of Decision Analysis, Global Edition (Page 30). Kindle Edition.
+* Skinner, David C.. Introduction to decision analysis , Third edition (Page 14). Hardcover Edition.
 * https://dictionary.cambridge.org/dictionary/english/decision
 
 Resource definition of alternatives:
