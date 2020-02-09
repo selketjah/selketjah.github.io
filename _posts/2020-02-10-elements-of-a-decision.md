@@ -7,7 +7,7 @@ tags:
 - decision theory
 ---
 
-In [Part I - What's a decision anyway?](2019-10-17-what-is-a-decision.md) we defined what a decision is and looked briefly into the characteristics of a decision. Although understanding what a decision is already helps a lot, the goal most of us have is to make the best decision possible.
+In [Part I - What's a decision anyway?](https://www.selketjah.com/decision%20theory/2019/10/17/what-is-a-decision/) we defined what a decision is and looked briefly into the characteristics of a decision. Although understanding what a decision is already helps a lot, the goal most of us have is to make the best decision possible.
 When you want to make a high quality decision, certain elements need to be present. Without those, you can't really make a good decision.
 
 <!--more--> 
@@ -23,7 +23,7 @@ Decision analysis provides a way to convert those three elements into a course o
 
 ## Alternatives/Options
 
-We already touched alternatives in the [previous post](2019-10-17-what-is-a-decision.md)
+We already touched alternatives in the [previous post](https://www.selketjah.com/decision%20theory/2019/10/17/what-is-a-decision/)
 Options are available actions that the decision maker can take that will lead them to a `different future`.
 If you have multiple options, but all lead to the same outcome, than you have no decision to make, because it does not matter which one you pick.
 
