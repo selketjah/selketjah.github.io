@@ -31,7 +31,7 @@ There are some tools and techniques available to generate options for the decisi
 
 ## Preferences
 
-A decision maker will have `preferences` about the options. What you want are value are the criteria by which you will compare one option with another one. This means that certain options are more desirable, because the outcomes of those options are more desirable. 
+A decision maker will have `preferences` about the options. Preferences (what we want) are the criteria or values by which you will compare one option with another one. This means that certain options are more desirable, because the outcomes of those options are more desirable. 
 If the decision maker does not prefer one option over the other, they don't care about the possible futures. This means that there is no decision to be made, because any option will do.
 
 Our preferences and values are sometimes refered to `objectives` in a more professional setting. A good tool is [Objective Hierarchy](https://www.amazon.com/Value-Focused-Thinking-Path-Creative-Decisionmaking/dp/067493198X/ref=sr_1_1?crid=3KJGY1OXP9351&keywords=value+focused+thinking&qid=1581251790&s=books&sprefix=value+focused+th%2Caps%2C232&sr=1-1)
