@@ -9,9 +9,9 @@ tags:
 
 It is time for my first book review of 2020!
 
-A while back someone told me that they saw potential in me to take on a leadership function, but I needed to learn to communication in different styles. Although I appreciated the input, I had one problem: I don't know any other communication styles than my current one... Even worse, I don't fully understand my current communication style and the impact it has on different people.
+A while back someone told me that they saw potential in me to take on a leadership function, but I needed to learn to communication in different styles. Although I appreciated the input, I had one problem: I don't know any other communication style than my current one... Even worse, I don't fully understand my current communication style and the impact it has on different people.
 
-So, I started reading some different books on communication, but I just couldn't motivate myself to keep reading it. Then I remembered a friend of mine talking about `Becoming a technical leader` and how great they thought the book was. I can only say one thing: they were right. Every chapter has a `Question` section with thoughtful questions so you can start looking into who you are and how you lead. Besides that, it offers some wonderful advice on how to be a better leader, including how you communicate with other people.
+So, I started reading some different books on communication, but I just couldn't motivate myself to keep reading it. Then I remembered a friend of mine talking about `Becoming a technical leader` and how great they thought the book was. I can only say one thing: they were right. Every chapter has a `Question` section with thoughtful questions so you can start looking into who you are and how you lead. Besides that, it offers some wonderful advice on how to be a better leader, including how you can communicate with other people.
 
 <!--more-->
 
