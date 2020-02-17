@@ -4,7 +4,7 @@ title: Adding a project to a solution file manually
 category: VS
 date: January 16, 2018
 tags:
-- Visual Studio
+- Visual-Studio
 ---
 
 To add a project to your solution manually, you need to do two things:
