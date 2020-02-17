@@ -123,3 +123,4 @@ So, I started reading some different books on communication, but I just couldn't
 
 Version of the book
 
+[Weinberg, Gerald. Becoming a Technical Leader. leanpub.com. Kindle Edition.](https://www.goodreads.com/book/show/18620538-becoming-a-technical-leader) 
