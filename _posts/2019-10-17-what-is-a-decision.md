@@ -4,7 +4,7 @@ title: Decisions Part I - What's a decision anyway?
 category: decision theory
 date: October 17, 2019
 tags:
-- decision
+- decisions
 ---
 
 The word `decision` pops up very often in our day to day conversations, and it is not that surprising. Decisions form a very central role in our lives: we can sum up someone's life by telling the sequence of decisions they made throughout it. We judge ourselves and other people by the decisions that we make:
