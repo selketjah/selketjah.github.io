@@ -7,8 +7,9 @@ tags:
 - decisions
 ---
 
+You are sitting in a meeting, vaguely paying attention. In the room there is a pretty heavy discussion going on, but the bird in the tree next to your office building just seems more interesting... The reason that this bird is more interesting than the current discussion, is because it is still the discussion that was happening an hour before you started staring at the bird. As a team, you are stuck. You are going in circles. The reason for this is because a couple of your team mates kept forgetting that Bulma can be adapted through the variables it exposes and brought it up over and over again as an argument not to use Bulma in your client applications. Mark, who is the only one that investiged how Bulma works, got angry. It's easy to empathise with Mark because he did the preparation and nobody else it. Unfortunately, nobody else found the time to review Bulma prior to the meeting as he requested. So you end up in a meeting to make a decision about a tool you want to use, but the facts just aren't clear and you go round and round without ever reaching a decision.
 
-
+Does this sound familiar?
 
 ## What is a PRO-CON-FIX list?
 
