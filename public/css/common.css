@@ -245,13 +245,13 @@ h1,h2,h3,h4,h5,h6
 }
 h1
 {
-    font-size: 38px;
-    line-height: 38px;    
+    font-size: 1.7rem;
+    line-height: 1.9rem;    
 }
 h2
 {
-    font-size: 34px;    
-    line-height: 34px;    
+    font-size: 1.5rem;    
+    line-height: 1.7rem;    
 }
 h3
 {
