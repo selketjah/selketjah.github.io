@@ -36,30 +36,30 @@ If you want to start comparing three or more options, there are other structures
 
 ## Tips and tricks for using it
 
-1. Make the second list
+### Make the second list
 
 I think the most important tip I can give anyone is to make the second list of a binary decision.
 When you have one option, it is very tempting to think that it suffices to create one list because you know and understand the current situation. Unfortunately it is very easy to have blind spots, so it is very benefitial to think about the current situation and what you would consider positive and negative about it and to think about neutralising certain negative aspects of it. Chances are you haven't really done that before or the list is outdated.
 
-2. Not every con has a fix
+### Not every con has a fix
 
 You cannot neutralise every Con, sometimes you have to learn to accept the negative side of an option.
 
-3. You are comparing lists, not items on the list
+### You are comparing lists, not items on the list
 
 Something I have noticed when working with a Pro-Con-Fix list, is that it is very tempting to fixate on a couple of items on a list, instead of talking about the lists as a whole. If you start doing that, you are just back to a pointless discussion that will not result in a decision with actionable steps to move forward. Draw the attention back to the list.
 
-4. A fix has to be actionable
+### A fix has to be actionable
 
 Actionable means that you have to be able to do something when you read a fix. Things like 'find out if' or 'encourage people to' are not actionable steps. Find out if it is possible and think about how you will encourage people. The list is the research moment, the research does not come after creating the list. You can't make an informed decision if you are not sure a fix is possible.
 
 
-5. The lists must be able to stand on their own
+### The lists must be able to stand on their own
 
 It is very tempting to compare things.  I noticed is that the lists are created in comparison to each other. An example: "We will have more flexibility". More than what?
 Words such as "more", "less", "faster"... are good indications that you are not thinking about the positive and negative aspects of the option in isolation. The right question is "How much flexibility will we gain with this option?" and write the answer down. You should be able to read the list without knowing what the other option is that you will compare ith with. Basically, a Pro-Con-Fix list must stand on its own.
 
-6. Individual brainstorming before team collaboration
+### Individual brainstorming before team collaboration
 
 If you are creating the Pro-Con-Fix list in team, it is better to divide each step into two steps:
 1. write down all your pro's individually
