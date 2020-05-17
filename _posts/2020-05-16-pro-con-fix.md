@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pro-Con-Fix list, a simple tool for visualising a trade-off
-category: decision theory
+category: decision-theory
 date: May 16, 2020
 tags:
 - decisions

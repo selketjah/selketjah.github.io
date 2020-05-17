@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Decisions Part II - the elements of a decision
-category: decision theory
+category: decision-theory
 date: February 10, 2020
 tags:
 - decisions
