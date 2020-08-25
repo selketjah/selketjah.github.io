@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The people in programming
-category: no-category
+category: books
 date: August 26, 2020
 tags:
 - books
