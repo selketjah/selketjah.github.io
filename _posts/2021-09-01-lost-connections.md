@@ -7,6 +7,8 @@ tags:
 - books
 ---
 
+What really causes depression and anxiety – and how can we really solve them? Award-winning journalist Johann Hari suffered from depression since he was a child and started taking anti-depressants when he was a teenager. He was told that his problems were caused by a chemical imbalance in his brain. As an adult, trained in the social sciences, he began to investigate whether this was true – and he learned that almost everything we have been told about depression and anxiety is wrong. 
+
 <!--more-->
 
 > That’s why he did something no scientist in this field had done with really obese people before . He stopped telling them what to do — and started listening to them instead .
