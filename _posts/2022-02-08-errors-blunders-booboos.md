@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ERRORS: bugs, boo-boos, blunders by Gerald Weinberg
+title: ERRORS - bugs, boo-boos, blunders by Gerald Weinberg
 category: books
 date: February 08, 2022
 tags:
