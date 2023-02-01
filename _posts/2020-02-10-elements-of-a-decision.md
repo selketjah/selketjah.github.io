@@ -23,7 +23,7 @@ Decision analysis provides a way to convert those three elements into a course o
 
 ## Alternatives/Options
 
-We already touched alternatives in the [previous post](https://www.selketjah.com/decision%20theory/2019/10/17/what-is-a-decision/)
+We already touched alternatives in the [previous post](https://www.selketjah.com/decision-theory/2019/10/17/what-is-a-decision/)
 Options are available actions that the decision maker can take that will lead them to a `different future`.
 If you have multiple options, but all lead to the same outcome, than you have no decision to make, because it does not matter which one you pick.
 
