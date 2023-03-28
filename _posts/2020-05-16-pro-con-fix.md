@@ -18,7 +18,7 @@ One important thing I realised is that visualisation while having a discussion i
 
 ## What is a Pro-Con-Fix list?
 
-The Pro-Con-Fix list is an extension of the Pro's and Cons list, that will help you deal with the tendency to overfocus on the drawbacks of an option.
+The Pro-Con-Fix list[^1] is an extension of the Pro's and Cons list, that will help you deal with the tendency to overfocus on the drawbacks of an option.
 
 We start by writing down all the advantages of the option, all the things you will gain when you pick this option. I know it is tempting to start with summing up the Cons first, because it is a lot easier to come up with those, but remember we are starting with the Pro's for a good reason. We don't want to end up in a discussion where we only talk about the Cons.
 
@@ -76,3 +76,8 @@ If you are creating the Pro-Con-Fix list in team, it is better to divide each st
 2. group them together and merge the individual items into one pro column.
 
 Same goes for summing up Cons and their Fixes.
+
+-------------
+
+Resources:
+* [^1]: The Thinker's Toolkit: 14 Powerful Techniques for Problem Solving, by Morgan D. Jones
