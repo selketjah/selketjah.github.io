@@ -80,4 +80,5 @@ Same goes for summing up Cons and their Fixes.
 -------------
 
 Resources:
+
 [^1]: The Thinker's Toolkit: 14 Powerful Techniques for Problem Solving, by Morgan D. Jones
