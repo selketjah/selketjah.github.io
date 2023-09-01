@@ -11,4 +11,4 @@ It’s a challenge to arrive at achievable, sustainable software design decision
 
 <!--more-->
 
-<iframe src="https://www.slideshare.net/slideshow/embed_code/key/eP6dSMuZLibEX8" width="427" height="652" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe class="speakerdeck-iframe" style="border: 0px none; background: rgba(0, 0, 0, 0.1) padding-box; margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 314;" src="https://speakerdeck.com/player/18c0b1e3a905407dba28908ebb1e7525" title="Collaborative software design - How to facilitate domain modeling decisions" allowfullscreen="true" data-ratio="1.78343949044586" frameborder="0"></iframe>
