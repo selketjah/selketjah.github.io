@@ -32,6 +32,9 @@ Some people find it very motivating to submit talks on topics they know nothing 
 
 # Find a mentor
 
+
+DDD Europe has a sparring partner program where they link up speakers. (zie notion)
+
 # MC'ing
 
 # Watching yourself
