@@ -24,6 +24,9 @@ This is what I love: I love giving hands-on sessions, LOVE it. It looked way sca
 
 Some people find it very motivating to submit talks on topics they know nothing about. I am not one of those people. For any topic that I submit, I could go on stage right now and talk about it for 2 or 3 hours. I know a lot about software design, Domain-Driven Design, collaboration, and decision-making. So those are the things you will see me talking about right now. I don't have to worry about forgetting something, because I know this stuff.
 
+# Your audience is as smart as you
+
+
 # Preparation
 
 # Breath
