@@ -1,8 +1,8 @@
 ---
 layout: post
-title: JAX Mainz - Slides Collaborative software design
+title: Slow down to speed up your decision-making
 category: talks
-date: April 23, 2024
+date: March 31, 2026
 tags:
 - talks
 ---
