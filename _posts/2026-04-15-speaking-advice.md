@@ -2,7 +2,7 @@
 layout: post
 title: So you want to be a public speaker?
 category: speaker
-date: February 10, 2026
+date: April 15, 2026
 tags:
 - speaker
 ---
@@ -16,7 +16,7 @@ There is a good reason for that: I don't enjoy talks where I have to code while 
 
 # Do what makes you comfortable
 
-I am don't enjoy live coding, Q&A's make me sweat, and being on a panel is 50 minutes of mental torture for me. So I am not doing those anymore. Maybe at some point I will decide to give it another go, because I have more experience. For now, I say no to those. Q&A's are more tricky, because not all conferences give you the option to opt out of them at the end of your talk. I do start making it clear at the beginning of my talk:"There will be no time for QA, but come find me after the talk if you have questions. I am here for the rest of the conference." Even when I announce it, and my timing is spot on, some MC's will still allow a few minutes for audience questions. it is a shitty thing to do and I would really like it if MC's did a better job at being an MC.
+I don't enjoy live coding, Q&A's make me sweat, and being on a panel is 50 minutes of mental torture for me. So I am not doing those anymore. Maybe at some point I will decide to give it another go, because I have more experience. For now, I say no to those. Q&A's are more tricky, because not all conferences give you the option to opt out of them at the end of your talk. I do start making it clear at the beginning of my talk:"There will be no time for QA, but come find me after the talk if you have questions. I am here for the rest of the conference." Even when I announce it, and my timing is spot on, some MC's will still allow a few minutes for audience questions. it is a shitty thing to do and I would really like it if MC's did a better job at being an MC.
 
 This is what I love: I love giving hands-on sessions, LOVE it. It looked way scarier than giving a talk. Just because something looks scary, doesn't mean that it is. What I am trying to say is this: the downside to this advice is that you have to do try different formats in order to understand if you are comfortable with them or not.  
 
